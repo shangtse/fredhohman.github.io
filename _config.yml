@@ -5,9 +5,9 @@
 # relative_permalinks: true
 
 # Setup
-title:               Fred Hohman
-tagline:             CSE Ph.D. Student at GT
-url:                 http://fredhohman.com
+title:               Shang-Tse Chen
+tagline:             CS Ph.D. Student at GT
+url:                 http://www.cc.gatech.edu/~schen351
 # gems:                [jekyll-paginate]
 # paginate:            5
 baseurl:             ""
@@ -21,14 +21,14 @@ sass:
 
 # About/contact
 author:
-  name:              Fred Hohman
-  url:               https://twitter.com/fredhohman
-  email:             fredhohman@gatech.edu
+  name:              Shang-Tse Chen
+  url:               https://www.cc.gatech.edu/~schen351
+  email:             schen351@gatech.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://fredhohman/fredhohman.github.io
+  repo:              https://shangtse/homepage
 
 nav_list:
   # About: '/about'

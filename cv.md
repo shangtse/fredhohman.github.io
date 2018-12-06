@@ -5,125 +5,52 @@ permalink: cv/
 ---
 
 
-# Fred Hohman
+# Shang-Tse Chen
+<!--
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
-
-<span class="cv-max-width">
-I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
+-->
+<span class="cv-subtitle">
 </span>
 
 <span class="cv-max-width">
-My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
-I also write, design, and build explorable explanations, dynamic expositions, and **<span class="cv-vis">interactive data visualizations</span>** that illustrate complex ideas simply and tangibly.
+[CS][cs] Ph.D. student at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Nina Balcan][nina].
 </span>
-
- <!-- via **<span class="cv-vis">data visualization</span>**. -->
-
-<!-- <span class="cv-vis"> -->
 
 <span class="cv-max-width">
-In 2018 I received the [NASA Space Technology Research Fellowship][nstrf]. 
+I work in the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity and social betterment.
 </span>
 
-<a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
-<a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
-<a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
-<a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
+<a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>  
+<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
 
+
+<!--
 <hr width="30%">
-
 <a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
-
 ***
+-->
 
 
 ## Education
 
-<span class="cv-left-date">Present —</span>**Ph.D. in Computational Science & Engineering**  
-<span class="cv-left-date">Aug. 2015</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
-Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-Minor: "User-Centered Design in Data Science"  
-Overall GPA: 4.00/4.00
+<span class="cv-left-date">2013 — 2019</span>**Ph.D. in Computer Science**  
+<span class="cv-left-date">&nbsp;  &nbsp; &nbsp;(expected)</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
+Committee: [Polo Chau][polo] <span class="cv-description">(advisor)</span>, [Nina Balcan][nina] <span class="cv-description">(co-advisor)</span>, Wenke Lee, Le Song,  
+           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Kevin Roundy, Cory Cornelius
 
-<span class="cv-left-date">May 2018</span>**M.S. in Computational Science & Engineering**  
-*[Georgia Institute of Technology][gt], Atlanta, GA*  
-
-<span class="cv-left-date">May 2015 —</span>**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
-<span class="cv-left-date">Aug. 2011</span>**B.S. in Physics**  
-*[University of Georgia][uga], Athens, GA*   
-Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
-Overall GPA: 3.84/4.00, Magna Cum Laude
-
-
-## Industry Research Experience
-
-<span class="cv-left-date">Summer 2018</span>**[Microsoft Research][msr]**, Redmond, WA  
-*Research Intern, [Human-Computer Interaction Group][msr-hci]*  
-Mentor: [Steven Drucker][steven-drucker]  
-<span class="cv-description">
-Exploring how visual analytics can help users explain and interpret machine learning models.
-</span>
-
-<span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab][jpl]**, Pasadena, CA  
-*Creative Computer Scientist, [Human Interfaces Group][hi]*  
-Mentor: [Scott Davidoff][scott-davidoff], [Arun Viswanathan][arun]  
-<span class="cv-description">
-Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research.  
-</span>
-
-<span class="cv-left-date">Summer 2016</span>**[Pacific Northwest National Lab][pnnl]**, Richland, WA  
-*National Security Ph.D. Intern, [Data Sciences & Analytics Group][dsa]*  
-Mentor: [Nathan Hodas][nathan]  
-<span class="cv-description">
-Built visualization tools that generate images from deep neural networks to explain classifier's learned semantics.  
-</span>
-
-
-## Academic Research Experience
-
-<span class="cv-left-date">Present —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
-<span class="cv-left-date">Aug. 2016</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-<span class="cv-description">
-Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
-</span>
-
-<span class="cv-left-date">May 2016 —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
-<span class="cv-left-date">Aug. 2015</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Mentor: [Surya Kalidindi][sk]  
-<span class="cv-description">
-Conducted research in physical data science and material informatics by creating property-structure linkages using machine learning to predict material properties.
-Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python.  
-</span>
-
-<span class="cv-left-date">May 2015 —</span>**[University of Georgia][uga]**, Athens, GA  
-<span class="cv-left-date">Jan. 2013</span>*Undergraduate Research Assistant, [Department of Mathematics][ugamath]*  
-Advisor: [David Gay][gay]  
-<span class="cv-description">
-Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department.  
-</span>
-
-<span class="cv-left-date">Summer 2014</span>**[REU in Mathematics and Computational Science][fairfield]**  
-*[Fairfield University][fairfield], Department of Mathematics, Fairfield, CT*  
-Mentor: [Shanon Reckinger][sr]  
-<span class="cv-description">
-Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to run parallel computational fluid dynamics simulations.
-</span>
-
+<span class="cv-left-date">2006 — 2010</span>**B.S. in Computer Science Information Engineering**  
+*[National Taiwan University][ntu], Taipei, Taiwan*  
+Overall GPA: 3.93/4.00
 
 ## Honors and Awards
 
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2018</span>Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS  
+<span class="cv-left-date">2018 — 2019 </span>IBM PhD Fellowship  
 <span class="cv-description">
-For "The Beginner's Guide to Dimensionality Reduction"  
-</span>
-<span class="cv-left-date">2018 — 2021</span>NASA Space Technology Research Fellowship  
-<span class="cv-description">
-For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
+For my Ph.D. work on "AI-infused Security: Robust Defense by Bridging Theory and Practice"
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2018</span>Audience Appreciation Award, Runner Up at ACM SIGKDD Conference  
@@ -131,172 +58,207 @@ For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and
 For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017 — 2018</span>Microsoft Azure for Research Award: AI for Earth  
+<span class="cv-left-date">2018</span>NVIDIA GPU Grant  
 <span class="cv-description">
-For our work on "Deep Learning for Fine-scale Population Maps"
+Awared a NVIDIA Titan V GPU
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference  
+<span class="cv-left-date">2016</span>Symantec Fellowship Runner-Up  
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2016</span>Best Student Paper Award, Runner-Up at ACM SIGKDD Conference  
 <span class="cv-description">
-For "Visual Graph Query Construction and Refinement"
+For "Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta"  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015 — 2019</span>President's Fellowship at Georgia Institute of Technology  
+<span class="cv-left-date">2016</span>Amazon Web Services (AWS) in Education Research Grants  
 <span class="cv-description">
-Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
+$2,500 in AWS credits  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015</span>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math  
+<span class="cv-left-date">2015</span>Amazon Web Services (AWS) in Education Research Grants  
 <span class="cv-description">
-For "Experimental and Numerical Comparison of Oceanic Overflow"
+$2,500 in AWS credits  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction  
+<span class="cv-left-date">2012</span>Machine Learning Summer School (MLSS) Student Travel Award  
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2010</span>National Science Council Research Creativity Award  
 <span class="cv-description">
-Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours
+For my undergraduate work on "Link Prediction in Heterogeneous Networks"  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2014</span>UGA CURO Research Assistantship  
+<span class="cv-left-date">2009</span>National Science Council Undergraduate Research Fellowship  
 <span class="cv-description">
-Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
+A grant that recognizes a small number of outstanding undergraduate researchers  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2013</span>Presidential Scholar  
+<span class="cv-left-date">2009</span>3rd Prize in the slow track of KDD Cup 2009  
 <span class="cv-description">
-Achieved a 4.0 GPA during a semester with minimum 14 credit hours
+The most prestigious data mining contest  
+Out of more than 400 submissions
 </span>
+
+
+
+
+## Industry Research Experience
+
+<span class="cv-left-date">Summer 2018</span>**[Intel Labs][msr]**, Hillsboro, OR  
+*Research Intern*  
+Mentor: [Cory Cornelius][cory], [Jason Martin][jason]  
+<span class="cv-description">
+Explored regularization techniques as defense against adversarial attack.
+</span>
+
+<span class="cv-left-date">Summer 2017</span>**[Intel Labs][msr]**, Hillsboro, OR  
+*Research Intern*  
+Mentor: [Cory Cornelius][cory], [Jason Martin][jason]  
+<span class="cv-description">
+Developed <I>ShapeShifter</I>, the 1st physical adversarial attack that fools Faster R-CNN object detectors
+</span>
+
+<span class="cv-left-date">Summer 2016</span>**[Symantec Research Labs][symantec]**, Culver City, CA  
+*Research Intern*  
+Mentor: [Kevin A. Roundy][kevin]  
+<span class="cv-description">
+Developed <I>Virtual Product</I>, a novel framework for enterprise cyber threat detection.  
+</span>
+
+<span class="cv-left-date">Summer 2015</span>**[Pindrop Security][pindrop]**, Atlanta, GA  
+*Research Intern*  
+Mentor: [Raj Bandyopadhyay][raj]  
+<span class="cv-description">
+Improved phone fraud detection system significantly by 10 absolute percentage.  
+</span>
+
+
+## Academic Research Experience
+
+<span class="cv-left-date">2013 — 2019</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
+<span class="cv-left-date">&nbsp;  &nbsp; &nbsp;(expected)</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
+Advisor: [Polo Chau][polo] and [Nina Balcan][nina]  
+
+<span class="cv-left-date">2011 — 2013</span>**Academia Sinica**, Taipei, Taiwan  
+*Graduate Research Assistant, Institute of Information Science*  
+Advisor: Chi-Jen Lu and Hsuan-Tien Lin  
+
+<span class="cv-left-date">2008 — 2010</span>**National Taiwan University**, Taipei, Taiwan  
+*Undergraduate Research Assistant, Department of Computer Science and Information Engineering*  
+Advisor: Shou-De Lin and Hsuan-Tien Lin  
+
+
+## Publications  
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011 — 2015</span>Dean's List  
-<span class="cv-description">
-Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
-</span>
+### Refereed Conference Papers  
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011 — 2015</span>Georgia HOPE Scholarship  
-<span class="cv-description">
-Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree
+
+**ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector**  
+<u>Shang-Tse Chen</u>, Cory Cornelius, Jason Martin, and Duen Horng (Polo) Chau  
+*European Conference on Machine Learning and Principles and Practice of Knowledge
+Discovery in Databases (ECML-PKDD). Dublin, Ireland. Sept. 2018.*  
+
+**Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression**  
+Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Siwei Li, Li Chen,  
+Michael E. Kounavis, and Duen Horng (Polo) Chau  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). London, UK. Aug. 2018.*  
+
+**Diversified Strategies for Mitigating Adversarial Attacks in Multiagent Systems**  
+Maria-Florina Balcan, Avrim Blum, and <u>Shang-Tse Chen</u> (alphabetic order)  
+*International Conference on Autonomous Agents and Multiagent Systems (AAMAS). Stockholm, Sweden. July 2018.*  
+
+**Predicting Cyber Threats with Virtual Security Products**  
+<u>Shang-Tse Chen</u>, Yufei Han, Duen Horng (Polo) Chau, Christopher Gates, Michael Hart, and  
+Kevin Roundy  
+*Annual Computer Security Applications Conference (ACSAC). Orlando, FL. Dec. 2017.*  
+
+**Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta**  
+Michael Madaio, <u>Shang-Tse Chen</u>, Oliver Haimson, Wenwen Zhang, Xiang Cheng,  
+Matthew Hinds-Aldrich, Duen Horng (Polo) Chau, and Bistra Dilkina.  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). San Francisco, CA. Aug. 2016.*  
+<span class="paper-misc">
+<span class="cv-award">*Best Student Paper Award, Runner-Up*</span>
 </span>
+
+**Communication Efficient Distributed Agnostic Boosting**  
+<u>Shang-Tse Chen</u>, Maria-Florina Balcan, and Duen Horng (Polo) Chau  
+*International Conference on Artificial Intelligence and Statistics (AISTATS). Cadiz, Spain. May 2016.*  
+
+**Boosting with Online Binary Learners for the Multiclass Bandit Problem**  
+<u>Shang-Tse Chen</u>, Hsuan-Tien Lin, and Chi-Jen Lu  
+*International Conference on Machine Learning (ICML). Beijing, China. June 2014.*  
+
+**An Online Boosting Algorithm with Theoretical Justifications**  
+<u>Shang-Tse Chen</u>, Hsuan-Tien Lin, and Chi-Jen Lu  
+*International Conference on Machine Learning (ICML). Edinburgh, Scotland. June 2012.*  
+
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011</span>Mission of Blessed Trinity: Artistic Sensibility  
-<span class="cv-description">
-One of two students to receive the Mission Statement award upon high-school graduation
-</span>
+### Journal Articles and Book Chapters  
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2009</span>Eagle Scout Award  
-<span class="cv-description">
-Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank
-</span>
+
+**Chronodes: Interactive Multi-focus Exploration of Event Sequences**  
+Peter J. Polack, <u>Shang-Tse Chen</u>, Minsuk Kahng, Kaya De Barbaro, Rahul Basole, Moushumi Sharmin, Duen Horng (Polo) Chau  
+*ACM Transactions on Interactive Intelligent Systems (TiiS) Special Issue on Interactive Visual Analysis of Human and Crowd Behaviors, 2018.*
+
+**Exploratory Visual Analytics of Mobile Health Data: Sensemaking Challenges and Opportunities**  
+Peter J. Polack, Moushumi Sharmin, Kaya de Barbaro, Minsuk Kahng, <u>Shang-Tse Chen</u>, and  
+Duen Horng (Polo) Chau  
+*Mobile Health: Sensors, Analytic Methods, and Applications. Springer, 2017.*
+
+**Constructing, Analyzing and Visualizing Social Networks: Exemplified by the Academia Social Network in Taiwan**  
+Cheng-Te Li, Chun-Min Chang, Chien-Pang Liu, <u>Shang-Tse Chen</u>, and Shou-De Lin  
+*Journal of Librarianship and Information Studies, 67:72-87, 2008.*
 
 
-## Publications
-**[Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure][18-kcore-bigdata]**  
-[Alok Tripathy][alok], [Fred Hohman][fred], [Duen Horng Chau][polo], [Oded Green][oded]  
-*IEEE International Conference on Big Data (Big Data). Seattle, USA. Dec. 10-13, 2018.*  
+<span class="cv-spacer-award"></span>
+### Refereed Workshop, Poster, and Demo papers  
+<span class="cv-spacer-award"></span>
+
+**ADAGIO: Interactive Experimentation with Adversarial Attack and Defense for Audio.**  
+Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Li Chen, Michael E. Kounavis, and  
+Duen Horng (Polo) Chau  
+*European Conference on Machine Learning and Principles and Practice of Knowledge
+Discovery in Databases (ECML-PKDD) (demo). Dublin, Ireland. Sept. 2018.*  
+
+**Physical Adversarial Attack on Object Detectors**  
+<u>Shang-Tse Chen</u>, Cory Cornelius, Jason Martin, and Duen Horng (Polo) Chau  
+*ACM KDD Project Showcase. London, UK. Aug. 2018.*  
+
+**Compression to the Rescue: Defending from Adversarial Attacks Across Modalities**  
+Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Siwei Li, Li Chen,  
+Michael E. Kounavis, and Duen Horng (Polo) Chau  
+*ACM KDD Project Showcase. London, UK. Aug. 2018.*  
+
+**TimeStitch: Interactive Multi-focus Cohort Discovery and Comparison**  
+Peter J. Polack, <u>Shang-Tse Chen</u>, Minsuk Kahng, Moushumi Sharmin, and Duen Horng (Polo) Chau  
+*IEEE Conference on Visual Analytics Science and Technology (VAST’15) (Poster). Chicago, IL, Oct. 2015.*  
+
+**Spotting Suspicious Reviews via (Quasi-)clique Extraction**  
+Paras Jain, <u>Shang-Tse Chen</u>, Mozhgan Azimpourkivi, Duen Horng (Polo) Chau, and  
+Bogdan Carbunar  
+*IEEE Symposium on Security and Privacy (Oakland) (poster). SAN JOSE, CA. May 2015.*  
+
+**An Ensemble of Three Classifiers for KDD Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and Selective Naive Bayes**  
+Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and Shou-de Lin  
+*JMLR Workshop and Conference Proceedings, V.7, 57-64, 2009.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][18-kcore-bigdata]</span> | [PDF][18-kcore-bigdata-pdf] | [BibTeX][18-kcore-bigdata]
+<span class="cv-award">*Third Place of the KDDCup'09 Slow Track*</span>
 </span>
 
-**[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-tvcg]**  
-[Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
-*IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | Video ([Polo Club][18-deepvis-tvcg-video-poloclub], [TVCG][18-deepvis-tvcg-video-tvcg]) | [Github][18-deepvis-tvcg-code] | [BibTeX][18-deepvis-tvcg]
-</span>
+<span class="cv-spacer-award"></span>
+### Technical Reports
+<span class="cv-spacer-award"></span>
 
-**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
-[Matthew Conlen][matt], [Fred Hohman][fred]  
-*Workshop on Visualization for AI Explainability at IEEE VIS. Oct 22, 2018. Berlin, Germany*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-dr-visxai]</span> | [Github][18-dr-visxai-github] | [BibTeX][18-dr-visxai] | <span class="cv-award">*Best Paper, Honorable Mention*</span>
-</span>
+**Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression**  
+Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Li Chen, Michael E. Kounavis, and Duen Horng (Polo) Chau  
+*arXiv:1705.02900, May 2017.*  
 
-**[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*ACM KDD 2018 Project Showcase. Aug 19, 2018. London, UK.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-compression-kdd]</span> | [PDF][18-compression-kdd-pdf] | [Github][18-compression-kdd-code] | [BibTeX][18-compression-kdd]
-</span>
+**An Ensemble Ranking Solution to the Yahoo! Learning to Rank Challenge**  
+Ming-Feng Tsai, <u>Shang-Tse Chen</u>, Yao-Nan Chen, Chun-Sung Ferng, Chia-Hsuan Wang,  
+Tzay-Yeu Wen, and Hsuan-Tien Lin  
+*National Taiwan University, Technical Report, Sept. 2010.*  
 
-**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression][18-shield-kdd]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Video][18-shield-kdd-video] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd] | <span class="cv-award">*Audience Appreciation Award, Runner Up*</span>
-</span>
 
-**[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
-[James Abello][james], [Fred Hohman][fred], [Varun Bezzam][varun], [Duen Horng Chau][polo]    
-*arXiv:1808.04414. Aug 13, 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-playground-arxiv]</span> | [PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv]
-</span>
 
-**[Interactive Classification for Deep Learning Interpretation][18-interactive-cvpr]**  
-[Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
-*Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">
-[Site][18-interactive-cvpr]</span> | [PDF][18-interactive-cvpr-pdf] | [Video][18-interactive-cvpr-video] | [Github][18-interactive-cvpr-code] | [BibTeX][18-interactive-cvpr]
-</span>
-
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
-*1st ACM SIGSPATIAL Workshop on Geospatial Humanities. Nov 7, 2017. Redondo Beach, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-deeppop-sigspatial]</span> | [PDF][17-deeppop-sigspatial-pdf] | [BibTeX][17-deeppop-sigspatial] | <span class="cv-award">*Microsoft AI for Earth Award*</span>
-</span>
-
-**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast]**  
-[Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
-*IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-vigor-vast]</span> | [PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview] | [BibTeX][17-vigor-vast]
-</span>
-
-**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast]**  
-[James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
-*Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [Poster][17-playground-vast-poster] | [BibTeX][17-playground-vast]
-</span>
-
-**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
-[Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
-*2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-got-vis4dh]</span> | [PDF][17-got-vis4dh-pdf] | [Demo][17-got-vis4dh-demo] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh]
-</span>
-
-**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
-[Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
-*Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-dashboard-ubicomp]</span> | [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster] | [BibTeX][17-dashboard-ubicomp]
-</span>
-
-**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*arXiv:1705.02900. May 8, 2017.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-defense-arxiv]</span> | [PDF][17-defense-arxiv-pdf] | [BibTeX][17-defense-arxiv]
-</span>
-
-**[Visual Graph Query Construction and Refinement][17-visage-sigmod]**  
-[Robert Pienta][robert], [Fred Hohman][fred], [Acar Tamersoy][acar], [Alex Endert][alex], [Shamkant Navathe][navathe], [Hanghang Tong][hanghang], [Duen Horn Chau][polo]  
-*Demo, ACM International Conference on Management of Data (SIGMOD/PODS). May 14-19, 2017. Chicago, USA.*    
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-visage-sigmod]</span> | [PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod] | <span class="cv-award">*Best Demo, Honorable Mention*</span>
-</span>
-
-**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi]**  
-[Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
-*Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-shapeshop-chi]</span> | [PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi]
-</span>
-
-**Experimental and Numerical Comparison of Oceanic Overflow**  
-[Thomas Gibson][thomas], [Fred Hohman][fred], [Theresa Morrison][theresa], [Shanon Reckinger][shanon], [Scott Reckinger][scott-reckinger]  
-*Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
 
 ## Presentations
 
@@ -548,11 +510,11 @@ Georgia Institute of Technology
 Atlanta, GA, USA  
 <span class="cv-blue-link">[cc.gatech.edu/~dchau/][polo]</span>
 
-**[Dr. Alex Endert][alex]**, Assistant Professor  
-School of Interactive Computing  
-Georgia Institute of Technology  
-Atlanta, GA, USA  
-<span class="cv-blue-link">[va.gatech.edu/endert/][alex]</span>
+**[Dr. Maria-Florina Balcan][nina]**, Associate Professor  
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA, USA  
+<span class="cv-blue-link">[www.cs.cmu.edu/~ninamf][nina]</span>
 
 **[Dr. Scott Davidoff][scott-davidoff]**, Manager  
 Human Interfaces Group  
@@ -575,21 +537,14 @@ Richland, WA, USA
 
 ## Contact
 
-Fred Hohman  
-`fredhohman@gatech.edu`  
+Shang-Tse Chen  
+`schen351@gatech.edu`  
 Data Analytics & Simulation Lab  
 Klaus Advanced Computing Building  
 Georgia Tech  
 266 Ferst Dr NW  
 Atlanta, GA 30332  
 <span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
-—  
-USA  
-Earth  
-Solar System  
-Milky Way  
-Local Group  
-Universe  
 </span>
 
 
@@ -603,7 +558,9 @@ Universe
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
 [gt]: http://gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
+[cs]: https://www.scs.gatech.edu "GT Computer Science"
 [coc]: http://www.cc.gatech.edu "GT College of Computing"
+[ntu]: http://www.ntu.edu.tw/english/ "National Taiwan University"
 [intj]: http://en.wikipedia.org/wiki/INTJ "INTJ"
 [ugamath]: "http://math.uga.edu" "UGA Mathematics"
 [ugaphysics]: http://www.physast.uga.edu "UGA Physics"
@@ -624,6 +581,10 @@ Universe
 [fred]: http://fredhohman.com "Fred Hohman"
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
+[nina]: http://www.cs.cmu.edu/~ninamf/ "Nina Balcan"
+[cory]: https://dxoig.mn/ "Cory Cornelius"
+[jason]: https://www.linkedin.com/in/nsxfreddy/ "Jason Martin"
+[raj]: https://www.linkedin.com/in/rajbandyopadhyay/ "Raj Bandyopadhyay"
 [nathan]: https://signatures.pnnl.gov/bios/nathan-hodas "Nathan Hodas"
 [gay]: https://euclidlab.org/david-gay/ "David Gay"
 [shanon]: http://www.shanonreckinger.com "Shanon Reckinger"
@@ -760,6 +721,9 @@ Universe
 [pnnl]: https://www.pnnl.gov/ "Pacific Northwest National Laboratory"
 [dsa]: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm "Data Sciences and Analytics Group at PNNL"
 [msr]: https://www.microsoft.com/en-us/research/ "Microsoft Research."
+[symantec]: https://www.symantec.com/about/corporate-profile/technology/research-labs "Symantec Research Labs."
+[intel]: https://www.intel.com/content/www/us/en/research/overview.html "Intel Labs"
+[pindrop]: https://www.pindrop.com/ "Pindrop Security"
 [msr-hci]: https://www.microsoft.com/en-us/research/group/human-computer-interaction/ "HCI@MSR."
 
 [twitter]: https:/www.twitter.com/fredhohman

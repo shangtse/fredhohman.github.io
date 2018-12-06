@@ -38,6 +38,7 @@
 #cv h3 {
 	margin-top: 0rem;
 	font-weight: 300;
+    font-variant: small-caps;
 }
 
 #cv h2 {
@@ -65,15 +66,17 @@
 }
 
 #cv .cv-left-date {
-	margin-left: -5rem;
-	// text-align: right;
+	//margin-left: -5rem;
+	margin-left: -6rem;
+	text-align: right;
 	width: 5rem;
 	display: inline-block;
 	font-size: 12px;
 	margin-top:0;
 	margin-bottom:0;
-	margin-right:0;
+	margin-right:14pt;
 	padding:0;
+    //border: 1pt solid green;
 }
 
 .cv-spacer {
