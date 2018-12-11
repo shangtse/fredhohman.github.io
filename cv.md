@@ -10,21 +10,22 @@ permalink: cv/
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
--->
 <span class="cv-subtitle">
 </span>
+-->
 
+<span class="cv-spacer-award"></span>
 <span class="cv-max-width">
-[CS][cs] Ph.D. student at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Nina Balcan][nina].
+[CS][cs] Ph.D. candidate at [Georgia Tech][gt] 
 </span>
 
 <span class="cv-max-width">
-I work in the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity and social betterment.
+I work in the intersection of applied and theoretical machine learning,  
+  with a strong application focus on cybersecurity.
 </span>
 
 <a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>  
 <a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
-
 
 <!--
 <hr width="30%">
@@ -33,13 +34,12 @@ I work in the intersection of applied and theoretical machine learning, with a s
 ***
 -->
 
-
 ## Education
 
 <span class="cv-left-date">2013 — 2019</span>**Ph.D. in Computer Science**  
 <span class="cv-left-date">&nbsp;  &nbsp; &nbsp;(expected)</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
-Committee: [Polo Chau][polo] <span class="cv-description">(advisor)</span>, [Nina Balcan][nina] <span class="cv-description">(co-advisor)</span>, Wenke Lee, Le Song,  
-           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Kevin Roundy, Cory Cornelius
+Committee: [Polo Chau][polo] <span class="cv-description">(advisor)</span>, [Nina Balcan][nina] <span class="cv-description">(co-advisor)</span>, [Wenke Lee][wenke], [Le Song][le],  
+           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Kevin Roundy][kevin], [Cory Cornelius][cory]
 
 <span class="cv-left-date">2006 — 2010</span>**B.S. in Computer Science Information Engineering**  
 *[National Taiwan University][ntu], Taipei, Taiwan*  
@@ -48,12 +48,12 @@ Overall GPA: 3.93/4.00
 ## Honors and Awards
 
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2018 — 2019 </span>IBM PhD Fellowship  
+<span class="cv-left-date">2018 — 2019 </span>[IBM PhD Fellowship][ibm-fellowship]  
 <span class="cv-description">
-For my Ph.D. work on "AI-infused Security: Robust Defense by Bridging Theory and Practice"
+For my Ph.D. research on "AI-infused Security: Robust Defense by Bridging Theory and Practice"
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2018</span>Audience Appreciation Award, Runner Up at ACM SIGKDD Conference  
+<span class="cv-left-date">2018</span>KDD'18 Audience Appreciation Award, Runner Up  
 <span class="cv-description">
 For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"
 </span>
@@ -65,26 +65,26 @@ Awared a NVIDIA Titan V GPU
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2016</span>Symantec Fellowship Runner-Up  
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2016</span>Best Student Paper Award, Runner-Up at ACM SIGKDD Conference  
+<span class="cv-left-date">2016</span>KDD'16 Best Student Paper Award, Runner-Up  
 <span class="cv-description">
 For "Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta"  
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2016</span>Amazon Web Services (AWS) in Education Research Grants  
 <span class="cv-description">
-$2,500 in AWS credits  
+$2,500 in AWS cloud credits  
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2015</span>Amazon Web Services (AWS) in Education Research Grants  
 <span class="cv-description">
-$2,500 in AWS credits  
+$2,500 in AWS cloud credits  
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2012</span>Machine Learning Summer School (MLSS) Student Travel Award  
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2010</span>National Science Council Research Creativity Award  
 <span class="cv-description">
-For my undergraduate work on "Link Prediction in Heterogeneous Networks"  
+For my undergraduate research on "Link Prediction in Heterogeneous Networks"  
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2009</span>National Science Council Undergraduate Research Fellowship  
@@ -94,34 +94,32 @@ A grant that recognizes a small number of outstanding undergraduate researchers
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2009</span>3rd Prize in the slow track of KDD Cup 2009  
 <span class="cv-description">
-The most prestigious data mining contest  
-Out of more than 400 submissions
+Out of 400+ submissions
+KDD CUP is most prestigious data mining contest  
 </span>
-
-
 
 
 ## Industry Research Experience
 
 <span class="cv-left-date">Summer 2018</span>**[Intel Labs][msr]**, Hillsboro, OR  
-*Research Intern*  
+*Graduate Machine Learning Security Intern*  
 Mentor: [Cory Cornelius][cory], [Jason Martin][jason]  
 <span class="cv-description">
 Explored regularization techniques as defense against adversarial attack.
 </span>
 
 <span class="cv-left-date">Summer 2017</span>**[Intel Labs][msr]**, Hillsboro, OR  
-*Research Intern*  
+*Graduate Security Intern*  
 Mentor: [Cory Cornelius][cory], [Jason Martin][jason]  
 <span class="cv-description">
-Developed <I>ShapeShifter</I>, the 1st physical adversarial attack that fools Faster R-CNN object detectors
+Developed <I>ShapeShifter</I>, the <b>1st physical adversarial attack</b> that fools Faster R-CNN object detectors
 </span>
 
 <span class="cv-left-date">Summer 2016</span>**[Symantec Research Labs][symantec]**, Culver City, CA  
-*Research Intern*  
+*Research Engineer Intern*  
 Mentor: [Kevin A. Roundy][kevin]  
 <span class="cv-description">
-Developed <I>Virtual Product</I>, a novel framework for enterprise cyber threat detection.  
+Developed <b>patent-pending</b> <I>Virtual Product</I>, a novel framework for enterprise cyber threat detection.  
 </span>
 
 <span class="cv-left-date">Summer 2015</span>**[Pindrop Security][pindrop]**, Atlanta, GA  
@@ -136,15 +134,15 @@ Improved phone fraud detection system significantly by 10 absolute percentage.
 
 <span class="cv-left-date">2013 — 2019</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
 <span class="cv-left-date">&nbsp;  &nbsp; &nbsp;(expected)</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Advisor: [Polo Chau][polo] and [Nina Balcan][nina]  
+Advisors: [Polo Chau][polo] and [Nina Balcan][nina]  
 
-<span class="cv-left-date">2011 — 2013</span>**Academia Sinica**, Taipei, Taiwan  
+<span class="cv-left-date">2011 — 2013</span>**[Academia Sinica][sinica]**, Taipei, Taiwan  
 *Graduate Research Assistant, Institute of Information Science*  
-Advisor: Chi-Jen Lu and Hsuan-Tien Lin  
+Advisors: Chi-Jen Lu and Hsuan-Tien Lin  
 
-<span class="cv-left-date">2008 — 2010</span>**National Taiwan University**, Taipei, Taiwan  
+<span class="cv-left-date">2008 — 2010</span>**[National Taiwan University][ntu]**, Taipei, Taiwan  
 *Undergraduate Research Assistant, Department of Computer Science and Information Engineering*  
-Advisor: Shou-De Lin and Hsuan-Tien Lin  
+Advisors: Shou-De Lin and Hsuan-Tien Lin  
 
 
 ## Publications  
@@ -152,59 +150,75 @@ Advisor: Shou-De Lin and Hsuan-Tien Lin
 ### Refereed Conference Papers  
 <span class="cv-spacer-award"></span>
 
-**ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector**  
+**[ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector][18-shapeshifter-ecml]**  
 <u>Shang-Tse Chen</u>, Cory Cornelius, Jason Martin, and Duen Horng (Polo) Chau  
 *European Conference on Machine Learning and Principles and Practice of Knowledge
 Discovery in Databases (ECML-PKDD). Dublin, Ireland. Sept. 2018.*  
+<span class="paper-misc">
+[Github][18-shapeshifter-github] | [Video][18-shapeshifter-video]
+</span>
 
-**Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression**  
+**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression][18-shield-kdd]**  
 Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Siwei Li, Li Chen,  
 Michael E. Kounavis, and Duen Horng (Polo) Chau  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). London, UK. Aug. 2018.*  
+<span class="paper-misc">
+[Github][18-shield-kdd-code] | [Video][18-shield-kdd-video] | <span class="cv-award">*Audience Appreciation Award, Runner-Up*</span>
+</span>
 
-**Diversified Strategies for Mitigating Adversarial Attacks in Multiagent Systems**  
+**[Diversified Strategies for Mitigating Adversarial Attacks in Multiagent Systems][18-diversified-aamas]**  
 Maria-Florina Balcan, Avrim Blum, and <u>Shang-Tse Chen</u> (alphabetic order)  
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS). Stockholm, Sweden. July 2018.*  
 
-**Predicting Cyber Threats with Virtual Security Products**  
+**[Predicting Cyber Threats with Virtual Security Products][17-virtual-acsac]**  
 <u>Shang-Tse Chen</u>, Yufei Han, Duen Horng (Polo) Chau, Christopher Gates, Michael Hart, and  
 Kevin Roundy  
 *Annual Computer Security Applications Conference (ACSAC). Orlando, FL. Dec. 2017.*  
+<span class="paper-misc">
+<span class="cv-award">*Patent Pending*</span>
+</span>
 
-**Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta**  
+**[Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta][16-firebird-kdd]**  
 Michael Madaio, <u>Shang-Tse Chen</u>, Oliver Haimson, Wenwen Zhang, Xiang Cheng,  
 Matthew Hinds-Aldrich, Duen Horng (Polo) Chau, and Bistra Dilkina.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). San Francisco, CA. Aug. 2016.*  
 <span class="paper-misc">
-<span class="cv-award">*Best Student Paper Award, Runner-Up*</span>
+<span class="cv-website-marker">[Site][16-firebird-site]</span>  | [Github][16-firebird-github] | [Video][16-firebird-video] | <span class="cv-award">*Best Student Paper Award, Runner-Up*</span>
 </span>
 
-**Communication Efficient Distributed Agnostic Boosting**  
+**[Communication Efficient Distributed Agnostic Boosting][16-distboost-aistats]**  
 <u>Shang-Tse Chen</u>, Maria-Florina Balcan, and Duen Horng (Polo) Chau  
 *International Conference on Artificial Intelligence and Statistics (AISTATS). Cadiz, Spain. May 2016.*  
 
-**Boosting with Online Binary Learners for the Multiclass Bandit Problem**  
+**[Boosting with Online Binary Learners for the Multiclass Bandit Problem][14-bandit-icml]**  
 <u>Shang-Tse Chen</u>, Hsuan-Tien Lin, and Chi-Jen Lu  
 *International Conference on Machine Learning (ICML). Beijing, China. June 2014.*  
 
-**An Online Boosting Algorithm with Theoretical Justifications**  
+**[An Online Boosting Algorithm with Theoretical Justifications][12-boosting-icml]**  
 <u>Shang-Tse Chen</u>, Hsuan-Tien Lin, and Chi-Jen Lu  
 *International Conference on Machine Learning (ICML). Edinburgh, Scotland. June 2012.*  
+<span class="paper-misc">
+[Code][12-boosting-code]
+</span>
+
 
 <span class="cv-spacer-award"></span>
 ### Journal Articles and Book Chapters  
 <span class="cv-spacer-award"></span>
 
-**Chronodes: Interactive Multi-focus Exploration of Event Sequences**  
+**[Chronodes: Interactive Multi-focus Exploration of Event Sequences][18-chronodes]**  
 Peter J. Polack, <u>Shang-Tse Chen</u>, Minsuk Kahng, Kaya De Barbaro, Rahul Basole, Moushumi Sharmin, Duen Horng (Polo) Chau  
-*ACM Transactions on Interactive Intelligent Systems (TiiS) Special Issue on Interactive Visual Analysis of Human and Crowd Behaviors, 2018.*
+*ACM Transactions on Interactive Intelligent Systems (TiiS) Special Issue on Interactive Visual Analysis of Human and Crowd Behaviors, 2018.*  
+<span class="paper-misc">
+[Video][18-chronodes-video]
+</span>
 
-**Exploratory Visual Analytics of Mobile Health Data: Sensemaking Challenges and Opportunities**  
+**[Exploratory Visual Analytics of Mobile Health Data: Sensemaking Challenges and Opportunities][17-book]**  
 Peter J. Polack, Moushumi Sharmin, Kaya de Barbaro, Minsuk Kahng, <u>Shang-Tse Chen</u>, and  
 Duen Horng (Polo) Chau  
 *Mobile Health: Sensors, Analytic Methods, and Applications. Springer, 2017.*
 
-**Constructing, Analyzing and Visualizing Social Networks: Exemplified by the Academia Social Network in Taiwan**  
+**[Constructing, Analyzing and Visualizing Social Networks: Exemplified by the Academia Social Network in Taiwan][08-taiwan]**  
 Cheng-Te Li, Chun-Min Chang, Chien-Pang Liu, <u>Shang-Tse Chen</u>, and Shou-De Lin  
 *Journal of Librarianship and Information Studies, 67:72-87, 2008.*
 
@@ -213,294 +227,219 @@ Cheng-Te Li, Chun-Min Chang, Chien-Pang Liu, <u>Shang-Tse Chen</u>, and Shou-De 
 ### Refereed Workshop, Poster, and Demo papers  
 <span class="cv-spacer-award"></span>
 
-**ADAGIO: Interactive Experimentation with Adversarial Attack and Defense for Audio.**  
+**[ADAGIO: Interactive Experimentation with Adversarial Attack and Defense for Audio][18-adagio]**  
 Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Li Chen, Michael E. Kounavis, and  
 Duen Horng (Polo) Chau  
 *European Conference on Machine Learning and Principles and Practice of Knowledge
 Discovery in Databases (ECML-PKDD) (demo). Dublin, Ireland. Sept. 2018.*  
+<span class="paper-misc">
+[Video][18-adagio-video]
+</span>
 
-**Physical Adversarial Attack on Object Detectors**  
+**[Physical Adversarial Attack on Object Detectors][18-shapeshifter-kdd]**  
 <u>Shang-Tse Chen</u>, Cory Cornelius, Jason Martin, and Duen Horng (Polo) Chau  
 *ACM KDD Project Showcase. London, UK. Aug. 2018.*  
 
-**Compression to the Rescue: Defending from Adversarial Attacks Across Modalities**  
+**[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
 Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Siwei Li, Li Chen,  
 Michael E. Kounavis, and Duen Horng (Polo) Chau  
 *ACM KDD Project Showcase. London, UK. Aug. 2018.*  
 
-**TimeStitch: Interactive Multi-focus Cohort Discovery and Comparison**  
+**[TimeStitch: Interactive Multi-focus Cohort Discovery and Comparison][15-timestitch]**  
 Peter J. Polack, <u>Shang-Tse Chen</u>, Minsuk Kahng, Moushumi Sharmin, and Duen Horng (Polo) Chau  
 *IEEE Conference on Visual Analytics Science and Technology (VAST’15) (Poster). Chicago, IL, Oct. 2015.*  
+<span class="paper-misc">
+[Video][15-timestitch-video]
+</span>
 
-**Spotting Suspicious Reviews via (Quasi-)clique Extraction**  
+**[Spotting Suspicious Reviews via (Quasi-)clique Extraction][15-yelp]**  
 Paras Jain, <u>Shang-Tse Chen</u>, Mozhgan Azimpourkivi, Duen Horng (Polo) Chau, and  
 Bogdan Carbunar  
 *IEEE Symposium on Security and Privacy (Oakland) (poster). SAN JOSE, CA. May 2015.*  
 
-**An Ensemble of Three Classifiers for KDD Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and Selective Naive Bayes**  
+**[An Ensemble of Three Classifiers for KDD Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and Selective Naive Bayes][09-kddcup]**  
 Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and Shou-de Lin  
 *JMLR Workshop and Conference Proceedings, V.7, 57-64, 2009.*  
 <span class="paper-misc">
-<span class="cv-award">*Third Place of the KDDCup'09 Slow Track*</span>
+<span class="cv-award">*3rd Place of the KDD Cup'09 Slow Track*</span>
 </span>
 
 <span class="cv-spacer-award"></span>
 ### Technical Reports
 <span class="cv-spacer-award"></span>
 
-**Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression**  
+**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-jpeg-arxiv]**  
 Nilaksh Das, Madhuri Shanbhogue, <u>Shang-Tse Chen</u>, Fred Hohman, Li Chen, Michael E. Kounavis, and Duen Horng (Polo) Chau  
 *arXiv:1705.02900, May 2017.*  
 
-**An Ensemble Ranking Solution to the Yahoo! Learning to Rank Challenge**  
+**[An Ensemble Ranking Solution to the Yahoo! Learning to Rank Challenge][10-yahoo]**  
 Ming-Feng Tsai, <u>Shang-Tse Chen</u>, Yao-Nan Chen, Chun-Sung Ferng, Chia-Hsuan Wang,  
 Tzay-Yeu Wen, and Hsuan-Tien Lin  
 *National Taiwan University, Technical Report, Sept. 2010.*  
 
+## Teaching Experience
+<span class="cv-spacer-award"></span>
+### Teaching Assistant
+<span class="cv-spacer-award"></span>
+
+<span class="cv-left-date">Fall 2015</span>**CSE-6040: Computing for Data Analytics**  
+Instructor: Richard Vuduc  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+Introductory data analytics course for MS in Analytics students. (37 students)
+</span>
+
+<span class="cv-left-date">Spring 2015</span>**CS-7545: Machine Learning Theory**  
+Instructor: Santosh Vempala  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+Advanced ML theory course primarily taken by PhD students. (26 students)
+</span>
+
+<span class="cv-spacer-award"></span>
+### Guest Lectures
+<span class="cv-spacer-award"></span>
+
+**Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta**  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+CSE-6242 Georgia Tech. Instructor: Polo Chau. 
+</span>  
+<span class="cv-left-date">Fall 2018</span><span class="cv-description">
+245 students (32 undergrads)  
+</span>
+<span class="cv-left-date">Spring 2018</span><span class="cv-description">
+200 students (45 undergrads)   
+</span>
+<span class="cv-left-date">Fall 2017</span><span class="cv-description">
+273 students (40 undergrads)   
+</span>
+
+<span class="cv-left-date">Fall 2015</span>**Data analysis and visualization**  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+CSE-6040 Georgia Tech. Instructor: Richard Vuduc. 37 students
+</span>
+
+<span class="cv-left-date">Spring 2015</span>**Practical ML for Big Data**  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+CS-7545 Georgia Tech. Instructor: Santosh Vempala. 26 students  
+</span>
+
+<span class="cv-spacer-award"></span>
+### Course Design
+<span class="cv-spacer-award"></span>
+
+<span class="cv-left-date">Fall 2016</span>**Big Data Bootcamp**  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<span class="cv-description">
+Co-led the design of a two-day intense hands-on bootcamp on big data tools, that is now  
+offered yearly to students in the MS in Analytics program (∼ 50 students each year).  
+Course material: [http://www.sunlab.org/teaching/cse8803/fall2016/lab/][bootcamp]
+</span>
+
+## Mentoring
+
+<span class="cv-left-date">2016 — 2017</span>**Madhuri Shanbhogue**  
+*M.S. CS, Georgia Tech*   
+<span class="cv-description">
+Adversarial Machine Learning    
+Now: Software Engineer at Facebook
+</span>
+
+<span class="cv-left-date">2015 - 2016</span>**Peter Polack**  
+*M.S. CS, Georgia Tech*  
+<span class="cv-description">
+Interactive visualization of health sensor data  
+Now: PhD student at UCLA
+</span>
+
+<span class="cv-left-date">2014 — 2017</span>**Paras Jain**  
+*B.S. CS, Georgia Tech*  
+<span class="cv-description">
+Fraud Detection on Yelp   
+Now: PhD student at UC Berkeley
+</span>
+
+## Grants and Funding
+
+<span class="cv-left-date">2018</span>**IBM PhD Fellowship**  
+<span class="cv-description">
+$95,000 over 2 years, covering full Tuition + $35,000 stipen for 2 years
+</span>
+
+<span class="cv-left-date">2017</span>**SaTC: CORE: Medium: Understanding and Fortifying Machine Learning Based Security Analytics**  
+*NSF CNS 1704701*  
+<span class="cv-description">
+PI: Polo Chau Co-PIs: Taesoo Kim, Wenke Lee, Le Song  
+Funded: $1,200,000, 8/1/2017 - 7/31/2021  
+Co-authored winning proposal, contributing a theory-guided decision-making and defense framework
+</span>
+
+<span class="cv-left-date">2016</span>**Intel Science & Technology Center for Adversary-Resilient Security Analytics (ISTC-ARSA)**  
+<span class="cv-description">
+PI: Wenke Lee  
+Co-PIs: Polo Chau, Taesoo Kim, Le Song  
+Gift Funding: $1,500,000, 2016 - 2019  
+Co-authored winning proposal, contributing robust, adaptive algorithms for efficient defenses
+</span>
 
 
+## Invited Talks
 
-## Presentations
+**Communication Efficient Distributed Agnostic Boosting**  
+<span class="cv-left-date">Apr. 2016</span> HotCSE Seminar, Georgia Tech, Atlanta, GA
+<span class="cv-spacer"></span>
 
-**Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
-<span class="cv-left-date">Oct. 2018</span>University of Georgia.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Oct. 2018</span>IEEE VIS.
-
-**The Beginner's Guide to Dimensionality Reduction**  
-<span class="cv-left-date">Oct. 2018</span>VISxAI Workshop at IEEE VIS.
-
-**Comparing Interactive Local and Global Explanation Paradigms for Human-assisted Machine Learning Tasks**  
-<span class="cv-left-date">July 2018</span>Microsoft Research.
-
-**Graph Playgrounds: 3D Exploration of Graph Layers via Vertex Cloning**  
-<span class="cv-left-date">Dec. 2017</span>AT&T Research Labs Graduate Student Symposium.
-
-**A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
-<span class="cv-left-date">Oct. 2017</span>2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
-
-**Constellation: Visualizing Cybersecurity in Real Time**  
-<span class="cv-left-date">Aug. 2017</span>NASA Jet Propulsion Lab (JPL).  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Aug. 2017</span>California Institute of Technology.
-
-**Visualizing Learned Semantics with Deep Learning**  
-<span class="cv-left-date">Nov. 2016</span>Georgia Tech. Ph.D. Qualifying Oral Exam.
-
-**Drawing Semantics with Deep Learning**  
-<span class="cv-left-date">July 2016</span>Pacific Northwest National Laboratory.
-
-**3D Printing The Trefoil Knot And Its Pages**  
-<span class="cv-left-date">Mar. 2015</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
-
-**Experimental and Numerical Studies of Oceanic Overflow**  
-<span class="cv-left-date">June 2015</span>American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Jan. 2015</span>Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Nov. 2014</span>American Physical Society Division of Fluid Dynamics.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Aug. 2014</span>Invited and presented on behalf at Brown University, Los Alamos National Lab.   
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">July 2014</span>Northeast REU Mini-Conference at Yale University.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">July 2014</span>University of Rhode Island Bay Campus.
-
-**3D Printing in Topology**  
-<span class="cv-left-date">Mar. 2014</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
-
+**Boosting with Online Binary Learners for the Multiclass Bandit Problem**  
+<span class="cv-left-date">June 2014</span>Appier Incorporated, Taipei, Taiwan.  
+<span class="cv-spacer"></span>
 
 ## Press
-
+<span class="cv-left-date">Oct. 2018</span>["Study reveals new vulnerability in self-driving cars"][techhq] Tech HQ.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Sept. 2018</span>["Erasing Stop Signs: ShapeShifter Shows Self-Driving Cars Can Still Be Manipulated"][gt-shapeshifter] Georgia Tech, College of Computing.
+<span class="cv-spacer"></span>
 <span class="cv-left-date">June 2018</span>["Georgia Tech Teams up with Intel to Protect Artificial Intelligence from Malicious Attacks Using SHIELD."][gt-cse-shield] Georgia Tech, College of Computing.
 <span class="cv-spacer"></span>
 <span class="cv-left-date">Apr. 2018</span>["CSE Ph.D. Students Claim Three Prestigious Fellowships."][gt-cse-fellowship] Georgia Tech, College of Computing.
 <span class="cv-spacer"></span>
-<span class="cv-left-date">Dec. 2017</span>["Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics."][gt-cc-deeppop] Georgia Tech,<br>College of Computing.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Sept. 2015</span>["Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil."][3dprint-2] 3dprint.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2015</span>["Student Profile: Fred Hohman."][uga-math-profile] 2015 UGA Mathematics Department Newsletter.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Feb. 2015</span>["Falling Water."][mitgcm] MITgcm.org.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Dec. 2014</span>["Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest."][3dprint-1] 3dprint.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">July 2014</span>["Day 311 - Trefoil Trumpet."][makerhome-day-311] Makerhome.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Apr. 2014</span>["Mathematics with 3D Printing."][sketches-of-topology] Sketches of Topology.
-
-
-## Teaching
-
-<span class="cv-left-date">Spring 2017</span>**[Graduate Teaching Assistant][cse-6242]**  
-*[Georgia Institute of Technology][gt], Atlanta, GA*  
-[Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], Instructor: [Polo Chau][polo]  
-<span class="cv-description">
-Designed homeworks, held weekly office hours, and mentored student team projects for [Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], a graduate course with 220+ students enrolled.
-</span>
-
-<span class="cv-left-date">2014 — 2015</span>**Student Notetaker**  
-*[University of Georgia][uga], Athens, GA*  
-<span class="cv-description">
-Generated notes for undergraduate mathematics and physics courses for students with disabilities.
-</span>
-
-<span class="cv-left-date">2012</span>**Tutor**  
-*[University of Georgia][uga], Athens, GA*  
-<span class="cv-description">
-Specialized in tutoring calculus to undergraduates.
-</span>
-
-
-## Mentoring
-
-<span class="cv-left-date">Present —</span>**[Angel Cabrera][angel]**  
-<span class="cv-left-date">Spring 2018</span>*B.S. CS, Georgia Tech*  
-<span class="cv-description">
-Interactive Classification for Deep Learning    
-Now: Software Engineering Intern at [Google][google]
-</span>
-
-<span class="cv-left-date">Spring 2018 —</span>**[Dezhi Fang][andy]**  
-<span class="cv-left-date">Fall 2016</span>*B.S. CS, Georgia Tech*  
-<span class="cv-description">
-Visual Motif Discovery  
-Now: Software Development Engineer at [Airbnb][airbnb]
-</span>
-
-<span class="cv-left-date">Spring 2018 —</span>**[Prasenjeet Biswal][prasenjeet]**  
-<span class="cv-left-date">Fall 2017</span>*M.S. CS, Georgia Tech*  
-<span class="cv-description">
-Deep Learning Attribution  
-Now: Software Development Engineer at [Oath][oath]
-</span>
-
-
-## Grants and Funding
-
-<span class="cv-left-date">2018 — 2021</span>**[Understanding Deep Neural Networks Through Attribution and Interactive Experimentation][nstrf]**  
-*[NSTRF: NASA Space Technology Research Fellowship][nstrf]*  
-<span class="cv-description">
-Co-PIs: [Duen Horng Chau][polo]  
-Funded $75,000/year, August 2018 — May 2021
-</span>
-
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017 — 2018</span>**[Deep Learning for Fine-scale Population Maps][17-deeppop-sigspatial]**  
-*Microsoft Azure for Research Award: AI for Earth*  
-<span class="cv-description">
-Co-PIs: [Caleb Robinson][caleb], [Bistra Dilkina][bistra]  
-Funded $15,000, August 2017 — August 2018
-</span>
-
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2014</span>**[3D Printing the Trefoil Knot and its Pages][trefoil]**  
-*UGA CURO Research Assistantship*  
-<span class="cv-description">
-Co-PIs: [David Gay][gay]  
-Funded $1,000, Fall 2014
-</span>
-
-
-## Explorable Explanations
-
-<span class="cv-left-date">2018</span>**[Blueberry Pancakes][pancakes]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred]  
-<span class="paper-misc">
-A toy algorithms problem
-</span>
-
-<span class="cv-left-date">2018</span>**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
-[Matthew Conlen][matt], [Fred Hohman][fred]  
-<span class="paper-misc">
-Explore the methods that data scientists use to visualize high-dimensional data, <span class="cv-award">*VISxAI Best Paper, Honorable Mention*</span>
-</span>
-
-<span class="cv-left-date">2018</span>**[The Math of Card Shuffling][card-shuffling]**  
-[Fred Hohman][fred]  
-<span class="paper-misc">
-Riffling from factory order to complete randomness, <span class="cv-award">*Top of Hacker News*</span>
-</span>
-
-
-## Design
-
-<span class="cv-left-date">2017 — 2018</span>**IDEA Workshop Proceedings Cover ([2017][idea2017], [2018][idea2018])**  
-*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA)*  
-<span class="cv-description">
-Designed workshop poster and conference proceedings cover.
-</span>  
-
-<span class="cv-left-date">2017</span>**[Brad Myers Advisee Tree][brad-myers-tree]**  
-*ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA*  
-<span class="cv-description">
-Designed and implemented an interactive visualization of Brad Myers's advisee tree shown during his CHI 2017 Lifetime Research Award talk. Designed accompanying ribbon worn by attendees at the conference.
-</span>  
-
-<span class="cv-left-date">Aug. 2014</span>**[3D Printed Cube Decomposition Trophy][trophy]**  
-*University of Georgia Mathematics Department, Athens, USA*  
-<span class="cv-description">
-Designed, modeled, and 3D printed cube decomposition trophy for annual UGA High School Math Tournament that was given to the top scoring teams and participants.
-</span>  
-
-<span class="cv-left-date">Aug. 2014</span>**[3D Printed UGA Keychain][keychain]**  
-*University of Georgia Lamar Dodd School of Art, Athens, USA*  
-<span class="cv-description">
-Created 3D printed UGA keychain and presentation notes given at Experience UGA: a interdisciplinary event that exposes middle-school and high-school students to hands-on learning activities.
-</span>  
-
-
-## Technology Skills
-
-**OS:** Mac OS X, Ubuntu, Unix Command Line, Windows  
-<span class="cv-spacer"></span>
-**Programming:** Python, Matlab, Mathematica, C  
-<span class="cv-spacer"></span>
-**Web:** HTML, CSS, JavaScript, D3, SQL, Bootstrap, LaTeX, Markdown, Jekyll, Git  
-<span class="cv-spacer"></span>
-**Graphics:** Affinity Designer, Pixelmator, Matplotlib, Blender, Keynote, Meshlab, MakerBot Desktop  
-<span class="cv-spacer"></span>
-**HCI:** Contextual Inquiry, Think-Alouds, User Personas, Rapid Paper Prototyping, Affinity Diagraming
 
 
 ## Professional Activities
 
-**Program Commitee**  
-ACM International Conference on Intelligent User Interfaces (**IUI**) 2019  
+<span class="cv-spacer-award"></span>
+### Program Committee
+<span class="cv-spacer-award"></span>
+AAAI Conference on Artificial Intelligence (**AAAI**) 2018
 <span class="cv-spacer"></span> 
-Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2018  
+International Conference on Machine Learning (**ICML**) 2018 - 2019
 <span class="cv-spacer"></span> 
-Workshop on Visualization for AI Explainability (**VISxAI**) at VIS 2018  
+Annual Conference on Neural Information Processing Systems (**NIPS**) 2017 - 2018
 <span class="cv-spacer"></span> 
-Workshop on Interactive Data Exploration and Analytics (**IDEA**) at KDD 2018
+Uncertainty in Artificial Intelligence (**UAI**) 2015 - 2018
+<span class="cv-spacer"></span> 
+Asian Conference on Machine Learning (**ACML**) 2017 - 2018
+<span class="cv-spacer"></span> 
+Conference on Technologies and Applications of Artificial Intelligence (**TAAI**) 2014
+<span class="cv-spacer"></span> 
+Deep Learning and Security Workshop @ IEEE S&P (**DLS**) 2019
 
-**Reviewer**  
-ACM Conference on Human Factors in Computing Systems (**CHI**) 2017, 2018, 2019
+<span class="cv-spacer-award"></span>
+### Reviewer
+<span class="cv-spacer-award"></span>
+International Conference on Artificial Intelligence and Statistics (**AISTATS**) 2019
 <span class="cv-spacer"></span> 
-IEEE Visual Analytics Science and Technology (**VAST**) 2017, 2018  
+SIAM International Conference on Data Mining (**SDM**) 2016 - 2017
 <span class="cv-spacer"></span> 
-1st Deep Learning and Security Workshop (**DLS**) at IEEE SP 2018  
-<span class="cv-spacer"></span> 
-Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
-<span class="cv-spacer"></span>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
-<span class="cv-spacer"></span>
-IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017  
-<span class="cv-spacer"></span>
-SIAM International Conference on Data Mining (**SDM**) 2017  
-
-**Member**  
-<span class="cv-left-date">2016 —</span>Association for Computing Machinery (**ACM**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2016 —</span>Institute of Electrical and Electronics Engineers (**IEEE**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2012 — 2015</span>UGA Mathematics Club  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2012 — 2013</span>Society of Physics Students, UGA Chapter (**SPS**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2011 — 2015</span>National Society of Collegiate Scholars (**NSCS**)
-
+<span class="cv-spacer"></span> 
+Annual Network and Distributed System Security Symposium (**NDSS**) 2017
+<span class="cv-spacer"></span> 
+USENIX Security Symposium (**USENIX Security**) 2017
+<span class="cv-spacer"></span> 
+ACM Conference on Computer and Communications Security (**CCS**) 2017
 
 ## References
 
@@ -510,30 +449,33 @@ Georgia Institute of Technology
 Atlanta, GA, USA  
 <span class="cv-blue-link">[cc.gatech.edu/~dchau/][polo]</span>
 
-**[Dr. Maria-Florina Balcan][nina]**, Associate Professor  
-School of Computer Science
-Carnegie Mellon University
+**[Dr. Nina Balcan][nina]**, Associate Professor  
+School of Computer Science  
+Carnegie Mellon University  
 Pittsburgh, PA, USA  
 <span class="cv-blue-link">[www.cs.cmu.edu/~ninamf][nina]</span>
 
-**[Dr. Scott Davidoff][scott-davidoff]**, Manager  
-Human Interfaces Group  
-NASA Jet Propulsion Lab  
-Pasadena, CA, USA  
-<span class="cv-blue-link">[scottdavidoff.com][scott-davidoff]</span>
+**[Dr. Wenke Lee][wenke]**, Professor  
+School of Computer Science  
+Georgia Institute of Technology  
+Atlanta, GA, USA  
+<span class="cv-blue-link">[http://wenke.gtisc.gatech.edu][wenke]</span>
 
-**[Dr. Steven Drucker][steven-drucker]**, Principal Researcher  
-Visualization and Interactive Data Analysis Group  
-Microsoft Research  
-Redmond, WA, USA  
-<span class="cv-blue-link">[	microsoft.com/en-us/research/people/sdrucker/][gay]</span>
+**[Dr. Le Song][le]**, Associate Professor  
+School of Computational Science and Engineering  
+Georgia Institute of Technology  
+Atlanta, GA, USA  
+<span class="cv-blue-link">[https://www.cc.gatech.edu/~lsong][le]</span>
 
-**[Dr. Nathan Hodas][nathan]**, Senior Research Scientist  
-Data Sciences and Analytics Group  
-Pacific Northwest National Laboratory  
-Richland, WA, USA  
-<span class="cv-blue-link">[signatures.pnnl.gov/bios/nathan-hodas][nathan]</span>
+**[Dr. Kevin Roundy][kevin]**, Technical Director  
+Symantec Research Labs  
+Culver City, CA, USA  
+<span class="cv-blue-link">[http://pages.cs.wisc.edu/~roundy][kevin]</span>
 
+**[Dr. Cory Cornelius][cory]**, Research Scientist  
+Intel Labs  
+Hillsboro, OR, USA  
+<span class="cv-blue-link">[https://dxoig.mn/][cory]</span>
 
 ## Contact
 
@@ -561,6 +503,7 @@ Atlanta, GA 30332
 [cs]: https://www.scs.gatech.edu "GT Computer Science"
 [coc]: http://www.cc.gatech.edu "GT College of Computing"
 [ntu]: http://www.ntu.edu.tw/english/ "National Taiwan University"
+[bootcamp]: http://www.sunlab.org/teaching/cse8803/fall2016/lab/ "Big Data Bootcamp"
 [intj]: http://en.wikipedia.org/wiki/INTJ "INTJ"
 [ugamath]: "http://math.uga.edu" "UGA Mathematics"
 [ugaphysics]: http://www.physast.uga.edu "UGA Physics"
@@ -582,6 +525,8 @@ Atlanta, GA 30332
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
 [nina]: http://www.cs.cmu.edu/~ninamf/ "Nina Balcan"
+[wenke]: http://wenke.gtisc.gatech.edu/ "Wenke Lee"
+[le]: https://www.cc.gatech.edu/~lsong/ "Le Song"
 [cory]: https://dxoig.mn/ "Cory Cornelius"
 [jason]: https://www.linkedin.com/in/nsxfreddy/ "Jason Martin"
 [raj]: https://www.linkedin.com/in/rajbandyopadhyay/ "Raj Bandyopadhyay"
@@ -627,7 +572,34 @@ Atlanta, GA 30332
 [alok]: http://www.aloktripathy.me/ "Alok Tripathy"
 [oded]: https://www.linkedin.com/in/oded-green-2a179a19/ "ODed Green"
 
+[18-chronodes]: https://www.cc.gatech.edu/~dchau/papers/17-tiis-chronodes.pdf 
+[18-chronodes-video]: https://www.youtube.com/watch?v=1O5ipF144Mg 
+[18-diversified-aamas]: https://www.cc.gatech.edu/~schen351/paper/diversified-aamas.pdf
+[18-shapeshifter-ecml]: http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/588.pdf
+[18-shapeshifter-github]: https://github.com/shangtse/robust-physical-attack 
+[18-shapeshifter-video]: https://youtu.be/pc2ssNY98LA 
+[18-shapeshifter-kdd]: https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1818.pdf 
+[18-compression-kdd]: http://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1800.pdf 
+[18-adagio]: https://arxiv.org/pdf/1805.11852.pdf 
+[18-adagio-video]: https://www.youtube.com/watch?v=0W2BKMwSfVQ 
+[17-jpeg-arxiv]: https://arxiv.org/pdf/1705.02900.pdf 
+[17-book]: https://link.springer.com/chapter/10.1007/978-3-319-51394-2_18 
+[17-virtual-acsac]: https://www.cc.gatech.edu/~dchau/papers/17-acsac-moneyball.pdf
+[16-firebird-kdd]: http://www.cc.gatech.edu/~dchau/papers/16-kdd-firebird.pdf 
+[16-firebird-site]: http://firebird.gatech.edu/
+[16-firebird-github]: https://github.com/DSSG-Firebird 
+[16-firebird-video]: https://www.youtube.com/watch?v=l8en1xYMyBc 
 
+[16-distboost-aistats]: http://jmlr.org/proceedings/papers/v51/chen16e.pdf 
+[15-timestitch]: http://www.cc.gatech.edu/~dchau/papers/15-vis-timestitch.pdf 
+[15-timestitch-video]: https://vimeo.com/136251565 
+[15-yelp]: http://www.ieee-security.org/TC/SP2015/posters/paper_52.pdf 
+[14-bandit-icml]: https://www.cc.gatech.edu/~schen351/paper/icml14boost.pdf 
+[12-boosting-icml]: https://www.cc.gatech.edu/~schen351/paper/icml12boost.pdf 
+[12-boosting-code]: https://www.cc.gatech.edu/~schen351/code/osboost.tgz 
+[10-yahoo]: https://www.cc.gatech.edu/~schen351/paper/wsltr10ensemble.pdf 
+[09-kddcup]: https://www.cc.gatech.edu/~schen351/paper/wskdd09cup.pdf 
+[08-taiwan]: https://www.cc.gatech.edu/~schen351/paper/jlis08.pdf 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
@@ -675,8 +647,7 @@ Atlanta, GA 30332
 [18-deepvis-tvcg-video-poloclub]: https://youtu.be/TI_sXHt2d8s
 [18-deepvis-tvcg-video-tvcg]: https://vimeo.com/groups/vis18previews/videos/289789596
 
-
-[18-shield-kdd]: {{ site.url }}/papers/shield
+[18-shield-kdd]: https://dl.acm.org/ft_gateway.cfm?id=3219910&ftid=1988709&dwn=1&CFID=3526179&CFTOKEN=44bec6304c00bb04-3F621A7A-9C86-D110-DE4DC7398E979956
 [18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
 [18-shield-kdd-code]: https://github.com/poloclub/jpeg-defense
 [18-shield-kdd-video]: https://www.youtube.com/watch?v=zUB2-i7rSb4
@@ -708,6 +679,8 @@ Atlanta, GA 30332
 [gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
 [gt-cse-fellowship]: https://www.cse.gatech.edu/news/605258/cse-phd-students-claim-three-prestigious-fellowships
 [gt-cse-shield]: https://www.cc.gatech.edu/news/606678/georgia-tech-teams-intel-protect-artificial-intelligence-malicious-attacks-using-shield
+[techhq]: https://techhq.com/2018/10/study-reveals-new-vulnerability-in-self-driving-cars 
+[gt-shapeshifter]: https://www.cc.gatech.edu/news/611783/erasing-stop-signs-shapeshifter-shows-self-driving-cars-can-still-be-manipulated 
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
@@ -724,11 +697,13 @@ Atlanta, GA 30332
 [symantec]: https://www.symantec.com/about/corporate-profile/technology/research-labs "Symantec Research Labs."
 [intel]: https://www.intel.com/content/www/us/en/research/overview.html "Intel Labs"
 [pindrop]: https://www.pindrop.com/ "Pindrop Security"
+[sinica]: https://www.sinica.edu.tw/en "Academia Sinica."
 [msr-hci]: https://www.microsoft.com/en-us/research/group/human-computer-interaction/ "HCI@MSR."
 
 [twitter]: https:/www.twitter.com/fredhohman
 [github]: https:/www.github.com/fredhohman
 [nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."
+[ibm-fellowship]: https://www.research.ibm.com/university/awards/2018_phd_fellowship_awards.shtml "IBM PhD Fellowship."
 
 [google]: https://www.google.com/ "Google."
 [airbnb]: https://www.airbnb.com/ "Airbnb."
