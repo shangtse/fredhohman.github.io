@@ -68,7 +68,7 @@ For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPE
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2018</span>NVIDIA GPU Grant  
 <span class="cv-description">
-Awared a NVIDIA Titan V GPU
+Awarded a NVIDIA Titan V GPU
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2016</span>Symantec Fellowship Runner-Up  
@@ -376,7 +376,7 @@ Now: PhD student at UC Berkeley
 
 <span class="cv-left-date">2018</span>**[IBM PhD Fellowship][ibm-fellowship]**  
 <span class="cv-description">
-$95,000 over 2 years, covering full Tuition + $35,000 stipen for 2 years
+$95,000 over 2 years, covering full Tuition + $35,000 stipend for 2 years
 </span>
 
 <span class="cv-left-date">2017</span>**[SaTC: CORE: Medium: Understanding and Fortifying Machine Learning Based Security Analytics][nsf-satc]**  
