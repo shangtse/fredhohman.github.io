@@ -59,6 +59,44 @@
 	// margin-right: auto;
 }
 
+.first_h2 {
+  display: block;
+  font-size: 1.5em;
+  //margin-top: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0px;
+  //margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  padding-bottom: 0px;
+  color: #313131;
+  font-weight: 300;
+}
+
+.title {
+  height: 80px;
+  //background-color: Red;
+  float: left;
+  width: 45%;
+  display: inline;
+  font-size: 2.1em;
+  margin-top: 1.2em;
+  margin-left: 2.3em;
+  //margin-bottom: 0.67em;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.contact {
+  display: inline;
+  //background-color: Aqua;
+  margin-top: 0.67em;
+  margin-left: 0%;
+  width: 55%;
+}
+
+
 #cv strong a {
 	color: #303030;
 }
@@ -88,6 +126,11 @@
 
 .cv-spacer-award {
 	margin-top: 5px;
+	display: block;
+}
+
+.cv-spacer-top {
+	margin-top: 10px;
 	display: block;
 }
 

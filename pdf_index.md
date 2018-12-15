@@ -1,29 +1,35 @@
 ---
 layout: cv
-title: CV
+title: Home
 ---
 
-# Shang-Tse Chen
+<div class="title">Shang-Tse Chen</div><span class="contact">
+Georgia Institute of Technology  
+266 Ferst Drive  
+Atlanta, GA 30332   
+</span>
+<span class="cv-spacer-top"></span>
+<span>
+  <a href="mailto:schen351@gatech.edu"><img class="social-icon" src="/images/footer/email.svg" height="22">schen351@gatech.edu</a>   
+  <a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>
+  <!--<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color.svg" height="28">Google Scholar</a> -->
+</span>
+
 <!--
+# Shang-Tse Chen 
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
 <span class="cv-subtitle">
 </span>
--->
-
 <span class="cv-spacer-award"></span>
 <span class="cv-max-width">
 [CS][cs] Ph.D. candidate at [Georgia Tech][gt] 
-</span>
+I work in the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity.
+-->
 
-<span class="cv-max-width">
-I work in the intersection of applied and theoretical machine learning,  
-  with a strong application focus on cybersecurity.
-</span>
-
-<a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>  
-<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
+<span class="first_h2">Research Interests</span>
+Machine Learning, Security, Algorithmic Game Theory, and Data Mining
 
 <!--
 <hr width="30%">
@@ -36,8 +42,9 @@ I work in the intersection of applied and theoretical machine learning,
 
 <span class="cv-left-date">2013 — 2019</span>**Ph.D. in Computer Science**  
 <span class="cv-left-date">&nbsp;  &nbsp; &nbsp;(expected)</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
+<!--Committee: [Polo Chau][polo] <span class="cv-description">(advisor)</span>, [Nina Balcan][nina] <span class="cv-description">(co-advisor)</span>, [Wenke Lee][wenke], [Le Song][le], [Kevin Roundy][kevin], [Cory Cornelius][cory]-->
 Committee: [Polo Chau][polo] <span class="cv-description">(advisor)</span>, [Nina Balcan][nina] <span class="cv-description">(co-advisor)</span>, [Wenke Lee][wenke], [Le Song][le],  
-           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Kevin Roundy][kevin], [Cory Cornelius][cory]
+           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Kevin Roundy][kevin], and [Cory Cornelius][cory]
 
 <span class="cv-left-date">2006 — 2010</span>**B.S. in Computer Science Information Engineering**  
 *[National Taiwan University][ntu], Taipei, Taiwan*  
@@ -45,7 +52,6 @@ Overall GPA: 3.93/4.00
 
 ## Honors and Awards
 
-<span class="cv-spacer-award"></span>
 <span class="cv-left-date">2018 — 2019 </span>[IBM PhD Fellowship][ibm-fellowship]  
 <span class="cv-description">
 For my Ph.D. research on "AI-infused Security: Robust Defense by Bridging Theory and Practice"
@@ -90,10 +96,10 @@ For my undergraduate research on "Link Prediction in Heterogeneous Networks"
 A grant that recognizes a small number of outstanding undergraduate researchers  
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2009</span>3rd Prize in the slow track of KDD Cup 2009  
+<span class="cv-left-date">2009</span>KDD Cup 2009 3rd Prize (slow track)  
 <span class="cv-description">
-Out of 400+ submissions
-KDD CUP is most prestigious data mining contest  
+Out of 400+ submissions  
+KDD CUP is the most prestigious data mining contest  
 </span>
 
 
@@ -136,11 +142,11 @@ Advisors: [Polo Chau][polo] and [Nina Balcan][nina]
 
 <span class="cv-left-date">2011 — 2013</span>**[Academia Sinica][sinica]**, Taipei, Taiwan  
 *Graduate Research Assistant, Institute of Information Science*  
-Advisors: Chi-Jen Lu and Hsuan-Tien Lin  
+Advisors: [Chi-Jen Lu][cjlu] and [Hsuan-Tien Lin][htlin]  
 
 <span class="cv-left-date">2008 — 2010</span>**[National Taiwan University][ntu]**, Taipei, Taiwan  
 *Undergraduate Research Assistant, Department of Computer Science and Information Engineering*  
-Advisors: Shou-De Lin and Hsuan-Tien Lin  
+Advisors: [Shou-De Lin][sdlin] and [Hsuan-Tien Lin][htlin] 
 
 
 ## Publications  
@@ -256,7 +262,8 @@ Bogdan Carbunar
 *IEEE Symposium on Security and Privacy (Oakland) (poster). SAN JOSE, CA. May 2015.*  
 
 **[An Ensemble of Three Classifiers for KDD Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and Selective Naive Bayes][09-kddcup]**  
-Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and Shou-de Lin  
+Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and   
+Shou-de Lin  
 *JMLR Workshop and Conference Proceedings, V.7, 57-64, 2009.*  
 <span class="paper-misc">
 <span class="cv-award">*3rd Place of the KDD Cup'09 Slow Track*</span>
@@ -275,20 +282,21 @@ Ming-Feng Tsai, <u>Shang-Tse Chen</u>, Yao-Nan Chen, Chun-Sung Ferng, Chia-Hsuan
 Tzay-Yeu Wen, and Hsuan-Tien Lin  
 *National Taiwan University, Technical Report, Sept. 2010.*  
 
+<br/>
 ## Teaching Experience
 <span class="cv-spacer-award"></span>
 ### Teaching Assistant
 <span class="cv-spacer-award"></span>
 
-<span class="cv-left-date">Fall 2015</span>**CSE-6040: Computing for Data Analytics**  
-Instructor: Richard Vuduc  
+<span class="cv-left-date">Fall 2015</span>**[CSE-6040: Computing for Data Analytics][cse-6040]**  
+Instructor: [Richard Vuduc][vuduc]  
 *[Georgia Institute of Technology][gt], Atlanta, GA*  
 <span class="cv-description">
 Introductory data analytics course for MS in Analytics students. (37 students)
 </span>
 
-<span class="cv-left-date">Spring 2015</span>**CS-7545: Machine Learning Theory**  
-Instructor: Santosh Vempala  
+<span class="cv-left-date">Spring 2015</span>**[CS-7545: Machine Learning Theory][cs-7545]**  
+Instructor: [Santosh Vempala][vempala]  
 *[Georgia Institute of Technology][gt], Atlanta, GA*  
 <span class="cv-description">
 Advanced ML theory course primarily taken by PhD students. (26 students)
@@ -333,27 +341,27 @@ CS-7545 Georgia Tech. Instructor: Santosh Vempala. 26 students
 *[Georgia Institute of Technology][gt], Atlanta, GA*  
 <span class="cv-description">
 Co-led the design of a two-day intense hands-on bootcamp on big data tools, that is now  
-offered yearly to students in the MS in Analytics program (∼ 50 students each year).  
+offered yearly to students in the [MS in Analytics program][ms-analytics] (∼ 50 students each year).  
 Course material: [http://www.sunlab.org/teaching/cse8803/fall2016/lab/][bootcamp]
 </span>
 
 ## Mentoring
 
-<span class="cv-left-date">2016 — 2017</span>**Madhuri Shanbhogue**  
+<span class="cv-left-date">2016 — 2017</span>**[Madhuri Shanbhogue][madhuri]**  
 *M.S. CS, Georgia Tech*   
 <span class="cv-description">
 Adversarial Machine Learning    
 Now: Software Engineer at Facebook
 </span>
 
-<span class="cv-left-date">2015 - 2016</span>**Peter Polack**  
+<span class="cv-left-date">2015 - 2016</span>**[Peter Polack][peter]**  
 *M.S. CS, Georgia Tech*  
 <span class="cv-description">
 Interactive visualization of health sensor data  
 Now: PhD student at UCLA
 </span>
 
-<span class="cv-left-date">2014 — 2017</span>**Paras Jain**  
+<span class="cv-left-date">2014 — 2017</span>**[Paras Jain][paras]**  
 *B.S. CS, Georgia Tech*  
 <span class="cv-description">
 Fraud Detection on Yelp   
@@ -362,12 +370,12 @@ Now: PhD student at UC Berkeley
 
 ## Grants and Funding
 
-<span class="cv-left-date">2018</span>**IBM PhD Fellowship**  
+<span class="cv-left-date">2018</span>**[IBM PhD Fellowship][ibm-fellowship]**  
 <span class="cv-description">
 $95,000 over 2 years, covering full Tuition + $35,000 stipen for 2 years
 </span>
 
-<span class="cv-left-date">2017</span>**SaTC: CORE: Medium: Understanding and Fortifying Machine Learning Based Security Analytics**  
+<span class="cv-left-date">2017</span>**[SaTC: CORE: Medium: Understanding and Fortifying Machine Learning Based Security Analytics][nsf-satc]**  
 *NSF CNS 1704701*  
 <span class="cv-description">
 PI: Polo Chau Co-PIs: Taesoo Kim, Wenke Lee, Le Song  
@@ -375,7 +383,7 @@ Funded: $1,200,000, 8/1/2017 - 7/31/2021
 Co-authored winning proposal, contributing a theory-guided decision-making and defense framework
 </span>
 
-<span class="cv-left-date">2016</span>**Intel Science & Technology Center for Adversary-Resilient Security Analytics (ISTC-ARSA)**  
+<span class="cv-left-date">2016</span>**[Intel Science & Technology Center for Adversary-Resilient Security Analytics (ISTC-ARSA)][intel-istc]**  
 <span class="cv-description">
 PI: Wenke Lee  
 Co-PIs: Polo Chau, Taesoo Kim, Le Song  
@@ -387,11 +395,11 @@ Co-authored winning proposal, contributing robust, adaptive algorithms for effic
 ## Invited Talks
 
 **Communication Efficient Distributed Agnostic Boosting**  
-<span class="cv-left-date">Apr. 2016</span> HotCSE Seminar, Georgia Tech, Atlanta, GA
+<span class="cv-left-date">Apr. 2016</span> [HotCSE Seminar][hotcse], Georgia Tech, Atlanta, GA
 <span class="cv-spacer"></span>
 
 **Boosting with Online Binary Learners for the Multiclass Bandit Problem**  
-<span class="cv-left-date">June 2014</span>Appier Incorporated, Taipei, Taiwan.  
+<span class="cv-left-date">June 2014</span>[Appier Inc.][appier], Taipei, Taiwan.  
 <span class="cv-spacer"></span>
 
 ## Press
@@ -428,6 +436,8 @@ Deep Learning and Security Workshop @ IEEE S&P (**DLS**) 2019
 ### Reviewer
 <span class="cv-spacer-award"></span>
 International Conference on Artificial Intelligence and Statistics (**AISTATS**) 2019
+<span class="cv-spacer"></span> 
+Deep Learning and Security Workshop @ IEEE S&P (**DLS**) 2018
 <span class="cv-spacer"></span> 
 SIAM International Conference on Data Mining (**SDM**) 2016 - 2017
 <span class="cv-spacer"></span> 
@@ -475,6 +485,8 @@ Intel Labs
 Hillsboro, OR, USA  
 <span class="cv-blue-link">[https://dxoig.mn/][cory]</span>
 
+
+<!--
 ## Contact
 
 Shang-Tse Chen  
@@ -486,6 +498,8 @@ Georgia Tech
 Atlanta, GA 30332  
 <span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
 </span>
+
+-->
 
 
 [stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
@@ -528,6 +542,14 @@ Atlanta, GA 30332
 [cory]: https://dxoig.mn/ "Cory Cornelius"
 [jason]: https://www.linkedin.com/in/nsxfreddy/ "Jason Martin"
 [raj]: https://www.linkedin.com/in/rajbandyopadhyay/ "Raj Bandyopadhyay"
+[cjlu]: http://www.iis.sinica.edu.tw/pages/cjlu/ "Chi-Jen Lu"
+[htlin]: https://www.csie.ntu.edu.tw/~htlin/ "Hsuan-Tien Lin"
+[sdlin]: https://www.csie.ntu.edu.tw/~sdlin/ "Shou-De Lin"
+[vuduc]: http://vuduc.org/v2/ "Rich Vuduc"
+[vempala]: https://www.cc.gatech.edu/~vempala/ "Santosh Vempala"
+[madhuri]: https://www.linkedin.com/in/madhuri-shanbhogue/ "Madhuri Shanbhogue"
+[peter]: https://petepolack.com/ "Peter Polack"
+[paras]: http://parasjain.com/ "Paras Jain"
 [nathan]: https://signatures.pnnl.gov/bios/nathan-hodas "Nathan Hodas"
 [gay]: https://euclidlab.org/david-gay/ "David Gay"
 [shanon]: http://www.shanonreckinger.com "Shanon Reckinger"
@@ -686,6 +708,10 @@ Atlanta, GA 30332
 [idea2017]: http://poloclub.gatech.edu/idea2017/ "IDEA 2017 Workshop."
 [idea2018]: http://poloclub.gatech.edu/idea2018/ "IDEA 2018 Workshop."
 [cse-6242]: http://poloclub.gatech.edu/cse6242/2017spring/ "CSE 6242 Spring 2017."
+[cse-6040]: https://cse6040.gatech.edu/fa17/ "CSE 6040."
+[cs-7545]: https://cs7545.wordpress.com/ "CS 7545."
+[ms-analytics]: https://analytics.gatech.edu/ "MS Analytics."
+[hotcse]: http://hotcse.gatech.edu/ "HotCSE."
 
 [jpl]: https://www.jpl.nasa.gov/ "NASA Jet Propulsion Lab"
 [hi]: https://www.hi.jpl.nasa.gov/ "Human Interfaces Group at NASA JPL"
@@ -697,11 +723,14 @@ Atlanta, GA 30332
 [pindrop]: https://www.pindrop.com/ "Pindrop Security"
 [sinica]: https://www.sinica.edu.tw/en "Academia Sinica."
 [msr-hci]: https://www.microsoft.com/en-us/research/group/human-computer-interaction/ "HCI@MSR."
+[appier]: https://www.appier.com/ "Appier."
 
 [twitter]: https:/www.twitter.com/fredhohman
 [github]: https:/www.github.com/fredhohman
 [nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."
 [ibm-fellowship]: https://www.research.ibm.com/university/awards/2018_phd_fellowship_awards.shtml "IBM PhD Fellowship."
+[nsf-satc]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1704701 "NSF SaTC."
+[intel-istc]: http://istc-arsa.iisp.gatech.edu/ "Intel ISTC."
 
 [google]: https://www.google.com/ "Google."
 [airbnb]: https://www.airbnb.com/ "Airbnb."
