@@ -41,6 +41,14 @@ figure img.full {
     float: none;
 }
 
+figure img.small {
+    margin-left: -5rem;
+    margin-right: 0;
+    width: 160px;
+    height: 200px;
+    float: left;
+}
+
 //Single image
 figure img.single {
     float: none;

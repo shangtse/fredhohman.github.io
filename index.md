@@ -15,6 +15,10 @@ Atlanta, GA 30332
   <!--<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color2.svg" height="28">Google Scholar</a> -->
 </span>
 
+<figure>
+  <img class="small" src="/images/myphoto.png" alt="That's me.">
+</figure>
+
 <!--
 # Shang-Tse Chen 
 <span class="cv-subtitle">
