@@ -12,8 +12,12 @@ Atlanta, GA 30332
 <span>
   <a href="mailto:schen351@gatech.edu"><img class="social-icon" src="/images/footer/email.svg" height="22">schen351@gatech.edu</a>   
   <a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>
-  <!--<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color.svg" height="28">Google Scholar</a> -->
+  <!--<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color2.svg" height="28">Google Scholar</a> -->
 </span>
+
+<figure>
+  <img class="small" src="/images/myphoto.png" alt="That's me.">
+</figure>
 
 <!--
 # Shang-Tse Chen 
