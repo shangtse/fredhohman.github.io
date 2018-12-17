@@ -3,23 +3,55 @@ layout: cv
 title: Home
 ---
 
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin,latin-ext" rel='stylesheet' type="text/css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+<div id="web_title">
+	<h1><a href="/">Shang-Tse Chen</a></h1>
+	<ul id="top_menu">
+		<li><a href="minsuk-kahng-cv.pdf">CV (PDF)</a></li>
+		<li><a href="publications.html">Publications</a></li>
+	</ul>
+</div>
+
+<!--
 <div class="title">Shang-Tse Chen</div><span class="contact">
 Georgia Institute of Technology  
 266 Ferst Drive  
 Atlanta, GA 30332   
 </span>
-<span class="cv-spacer-top"></span>
-<span>
-  <a href="mailto:schen351@gatech.edu"><img class="social-icon" src="/images/footer/email.svg" height="22">schen351@gatech.edu</a>   
-  <a href="http://www.cc.gatech.edu/~schen351"><img class="social-icon" src="/images/footer/home-color.svg">http://www.cc.gatech.edu/~schen351</a>
-  <!--<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ"><img class="social-icon" src="/images/footer/graduation-color2.svg" height="28">Google Scholar</a> -->
-</span>
+-->
 
+<div id="profile_card">
+	<img id="profile_image" src="/images/myphoto.png" alt="Minsuk Kahng" />
+
+	<ul id="profile_items">
+		<li>
+           <i class="fas fa-envelope fa-fw"></i>
+            <a href="mailto:schen351@gatech.edu">schen351@gatech.edu</a>   
+		</li>
+		<li>
+			<i class="fas fa-graduation-cap fa-fw"></i>
+			<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ">
+				Google Scholar
+			</a>
+		</li> 
+	</ul>
+</div>
+<div id="about_me_text">
+	<p>Hi, I'm a final-year computer science PhD student at <a href="https://www.cc.gatech.edu/">Georgia Tech</a>, advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
+	<p>My research on <strong>"Human-Centered AI through Scalable Visual Data Analytics"</strong> focuses on building novel <em><strong>data visualization</strong> tools</em> for helping people <em>explore, interpret, and interact with <strong>machine learning</strong> systems</em>, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.</p>
+	<p>My PhD studies have been supported by the <a href="https://ai.google/research/outreach/phd-fellowship/">Google PhD Fellowship</a> and the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. During my PhD studies, I have been fortunate to work with amazing people at <a href="https://ai.google/research/teams/brain/pair">Google Brain</a> and <a href="https://research.fb.com/category/machine-learning/">Facebook Research</a>, resulting in publications and open-sourced and deployed systems.</p>
+	<p>Prior to Georgia Tech, I completed both my master's and bachelor's degrees at <a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</a> in South Korea.</p>
+	<p style="color: #b25;">I'm currently on the <strong>academic job market</strong>, looking for a faculty position!</p>
+</div>
+
+
+
+<!--
 <figure>
   <img class="small" src="/images/myphoto.png" alt="That's me.">
 </figure>
-
-<!--
 # Shang-Tse Chen 
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
@@ -32,8 +64,6 @@ Atlanta, GA 30332
 I work in the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity.
 -->
 
-<span class="first_h2">Research Interests</span>
-Machine Learning, Security, Algorithmic Game Theory, and Data Mining
 
 <!--
 <hr width="30%">
