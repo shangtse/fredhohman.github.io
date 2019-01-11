@@ -80,11 +80,21 @@ li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px
 
 #profile_card {
   //background-color: Red;
-  position: absolute;
+  position: fixed;
   width: 224px;
   left: 200px;
   margin-top: 5px;
   margin-bottom: 20px;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: left;
+    width: 150px;
+}
+.caption {
+    display: block;
 }
 
 #profile_card img#profile_image { width: 224px; height: 277px;}

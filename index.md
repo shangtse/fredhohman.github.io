@@ -9,7 +9,7 @@ title: Home
 <div id="web_title">
 	<h1><a href="/">Shang-Tse Chen</a></h1>
 	<ul id="top_menu">
-		<li><a href="minsuk-kahng-cv.pdf">CV (PDF)</a></li>
+		<li><a href="cv.pdf">CV (PDF)</a></li>
 		<li><a href="publications.html">Publications</a></li>
 	</ul>
 </div>
@@ -21,10 +21,10 @@ Georgia Institute of Technology
 Atlanta, GA 30332   
 </span>
 -->
-
+<!-- 
 <div id="profile_card">
-	<img id="profile_image" src="/images/myphoto.png" alt="Minsuk Kahng" />
 
+<img id="profile_image" src="/images/myphoto.png" alt="Shang-Tse Chen" />
 	<ul id="profile_items">
 		<li>
            <i class="fas fa-envelope fa-fw"></i>
@@ -38,6 +38,9 @@ Atlanta, GA 30332
 		</li> 
 	</ul>
 </div>
+-->
+
+<!--
 <div id="about_me_text">
 	<p>Hi, I'm a final-year computer science PhD student at <a href="https://www.cc.gatech.edu/">Georgia Tech</a>, advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
 	<p>My research on <strong>"Human-Centered AI through Scalable Visual Data Analytics"</strong> focuses on building novel <em><strong>data visualization</strong> tools</em> for helping people <em>explore, interpret, and interact with <strong>machine learning</strong> systems</em>, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.</p>
@@ -46,12 +49,31 @@ Atlanta, GA 30332
 	<p style="color: #b25;">I'm currently on the <strong>academic job market</strong>, looking for a faculty position!</p>
 </div>
 
-
-
-<!--
 <figure>
   <img class="small" src="/images/myphoto.png" alt="That's me.">
 </figure>
+    <img src="/images/myphoto.png"/>
+<figure>
+  <img class="small" src="/images/myphoto.png" alt="That's me.">
+</figure>
+    <img src="/images/myphoto.png"/>
+<figure>
+  <img src="/images/myphoto.png" alt="Trulli" class="small"> test
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+-->
+
+<div class="item">
+  <img class="small" src="/images/myphoto.png" alt="That's me.">
+    <span class="caption">Text below the image 123 123</span>
+</div>
+test
+wer
+
+<div id="about_me_text">
+	<p>Hi, I'm a final-year computer science PhD student at <a href="https://www.cc.gatech.edu/">Georgia Tech</a>, advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
+</div>
+
 # Shang-Tse Chen 
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
@@ -62,8 +84,7 @@ Atlanta, GA 30332
 <span class="cv-max-width">
 [CS][cs] Ph.D. candidate at [Georgia Tech][gt] 
 I work in the intersection of applied and theoretical machine learning, with a strong application focus on cybersecurity.
--->
-
+studies have been supported by the Google PhD Fellowship and the NSF Graduate Research Fellowship. During my PhD studies, I have been fortunate to work with amazing people at Google Brain and Facebook Research, resulting in publications and open-sourced and deployed systems.
 
 <!--
 <hr width="30%">
@@ -71,6 +92,9 @@ I work in the intersection of applied and theoretical machine learning, with a s
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
 ***
 -->
+<figure>
+  <img src="/images/myphoto.png" alt="Trulli" class="small"> test
+</figure>
 
 ## Education
 
