@@ -6,69 +6,70 @@ title: Home
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin,latin-ext" rel='stylesheet' type="text/css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 
-
-<div class="top-width">
-<div id="web_title">
+<div id="title">
 	<h1><a href="/">Shang-Tse Chen</a></h1>
 	<ul id="top_menu">
-		<li><a href="publications.html">Publications</a></li>
-		<li><a href="/">Home</a></li>
-        <!--
 		<li><a href="cv.pdf">CV (PDF)</a></li>
-        -->
+		<li><a href="publications.html">Publications</a></li>
+		<li><a href="/"><strong>Home</strong></a></li>
 	</ul>
 </div>
-</div>
 
+<div id="content">
 
-<!-- 
 <div id="profile_card">
+	<img id="profile_image" src="images/myphoto.png" alt="Shang-Tse Chen" />
 
-<img id="profile_image" src="/images/myphoto.png" alt="Shang-Tse Chen" />
 	<ul id="profile_items">
 		<li>
-           <i class="fas fa-envelope fa-fw"></i>
-            <a href="mailto:schen351@gatech.edu">schen351@gatech.edu</a>   
+			<i class="fas fa-envelope fa-fw"></i>
+			<a href="/cdn-cgi/l/email-protection#3259535a5c557255534657515a1c575647">		
+				<span class="__cf_email__" data-cfemail="600b01080e07200701140503084e050415">[email&#160;protected]</span>
+			</a>
 		</li>
 		<li>
+			<i class="fas fa-home fa-fw"></i>
+			<a href="https://minsuk.com">
+				minsuk.com
+			</a>
+		</li> 
+		<li>
 			<i class="fas fa-graduation-cap fa-fw"></i>
-			<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ">
+			<a href="https://scholar.google.com/citations?hl=en&user=vieI1GYAAAAJ">
 				Google Scholar
 			</a>
 		</li> 
+		<li>
+			<i class="fab fa-twitter fa-fw"></i>
+			<a href="https://www.twitter.com/minsukkahng">
+				Twitter
+			</a>
+		</li>
 	</ul>
 </div>
--->
 
-<!--
+
 <div id="about_me_text">
 	<p>Hi, I'm a final-year computer science PhD student at <a href="https://www.cc.gatech.edu/">Georgia Tech</a>, advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
 	<p>My research on <strong>"Human-Centered AI through Scalable Visual Data Analytics"</strong> focuses on building novel <em><strong>data visualization</strong> tools</em> for helping people <em>explore, interpret, and interact with <strong>machine learning</strong> systems</em>, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.</p>
 	<p>My PhD studies have been supported by the <a href="https://ai.google/research/outreach/phd-fellowship/">Google PhD Fellowship</a> and the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. During my PhD studies, I have been fortunate to work with amazing people at <a href="https://ai.google/research/teams/brain/pair">Google Brain</a> and <a href="https://research.fb.com/category/machine-learning/">Facebook Research</a>, resulting in publications and open-sourced and deployed systems.</p>
 	<p>Prior to Georgia Tech, I completed both my master's and bachelor's degrees at <a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</a> in South Korea.</p>
-	<p style="color: #b25;">I'm currently on the <strong>academic job market</strong>, looking for a faculty position!</p>
+
+	<p>
+		<span style="color: #b25;">I'm currently on the <strong>faculty job market</strong>!
+		Here are my application materials:</span>
+	</p>
+	<div id="job_materials">
+		<a class="link_button" href="minsuk-kahng-cv.pdf">CV</a> 
+		<a class="link_button" href="minsuk-kahng-research-statement.pdf">Research Statement</a>
+		<a class="link_button" href="minsuk-kahng-teaching-statement.pdf">Teaching Statement</a>
+	</div>
+</div>
 </div>
 
-<figure>
-  <img class="small" src="/images/myphoto.png" alt="That's me.">
-</figure>
-    <img src="/images/myphoto.png"/>
-<figure>
-  <img class="small" src="/images/myphoto.png" alt="That's me.">
-</figure>
-    <img src="/images/myphoto.png"/>
-<figure>
-  <img src="/images/myphoto.png" alt="Trulli" class="small"> test
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
 
 
-<div class="item">
-  <img class="small" src="/images/myphoto.png" alt="That's me.">
-    <span class="caption">Text below the image 123 123</span>
-</div>
--->
-
+<!--
 <span class="photo-left">
   <img src="/images/myphoto.png" alt="Trulli" class="small">
   <span class="cv-spacer-award"></span>
@@ -81,8 +82,8 @@ title: Home
   <i class="far fa-file-pdf fa-fw w3-margin-right w3-large w3-text-blue"></i>
   <a href="https://www.cc.gatech.edu/~schen351/paper/cv.pdf">CV (PDF)</a>
 </span>
+-->
 
-<span class="cv-spacer-p"></span>
 I'm a final-year [CS][cs] Ph.D. student at [Georgia Tech][gt], advised by [Polo Chau][polo] and [Nina Balcan][nina].
 <span class="cv-spacer-p"></span>
 I work in the intersection of **applied** and **theoretical machine learning**, with a strong  
@@ -103,23 +104,14 @@ and spent two years as a research assistant at [Academia Sinica][sinica].
 
 <p style="color: #689A19; font-weight:bold">I'm currently on the academic job market! Here are my application materials:</p>
 
+<!--
 <a id="material" href="cv.pdf">CV</a>
 <a id="material" href="research_statement.pdf">Research Statement</a>
 <a id="material" href="teaching_statement.pdf">Teaching Statement</a>
-
 <br>
-
-***
-
-<!--
-<hr width="30%">
-<a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
-<time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
-***
-<figure>
-  <img src="/images/myphoto.png" alt="Trulli" class="small"> test
-</figure>
 -->
+
+
 
 <span class="news">News</span>
 <span class="cv-left-date">Sept. 2018</span>Presented [ShapeShifter][18-shapeshifter-ecml] and [ADAGIO][18-adagio] at ECML-PKDD'18.   

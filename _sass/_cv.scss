@@ -1,5 +1,5 @@
 #cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination, hr{
-	max-width: 55rem; //should match .container max-width 
+	max-width: 45rem; //should match .container max-width 
 	margin-left: 5rem;
 }
 
@@ -85,54 +85,70 @@
   font-weight: 300;
 }
 
+body { font-family: Lato, Arial; font-size: 14px; color: #333;}
+#wrap { margin: 0 auto; max-width: 795px; padding: 10px 15px;}
+
 a { text-decoration: none; color: #379;}
 ul { padding-left: 0;}
 li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px;}
 
-#profile_card {
-  background-color: Red;
-  position: relative;
-  width: 224px;
-  left: 200px;
-  margin-top: 5px;
-  margin-bottom: 20px;
-}
-
-div.item {
-  background-color: Red;
-    position: relative;
-    vertical-align: top;
-    display: inline-block;
-    text-align: left;
-    width: 200px;
-    left: -150px;
-    float: left;
-}
-img {
-    width: 200px;
-}
-.caption {
-    display: block;
-}
-
-#profile_card img#profile_image { width: 224px; height: 277px;}
-
-#profile_items { margin-top: 15px;}
-#profile_items li { margin: 4px -2px 0 -90px;}
-#profile_items li i { color: #555;}
-#profile_items li a { border-bottom: 0;}
-
-#web_title { display: flex; align-items: flex-end; justify-content: space-between; padding-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 6px; margin-bottom: 20px;}
-#web_title h1 { font-size: 36px; margin: 0; color: #147; min-width: 300px;}
-#web_title h1 a { color: #333;}
-
+#title { display: flex; align-items: flex-end; justify-content: space-between; padding-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 6px; margin-bottom: 20px;}
+#title h1 { font-size: 40px; margin: 0; color: #147; min-width: 300px;}
+#title h1 a { color: #147;}
 #top_menu { margin: 0 0 4px 0;}
 #top_menu li { display: inline; font-size: 17px; margin: 0 5px;}
 #top_menu a { color: #555;}
-#top_menu a:hover { color: #2196F3;}
+#top_menu a:hover { color: #379;}
+
+#content { position: relative; margin-left: 175px;}
+#content a { border-bottom: 1px solid #ddd;}
+#content a:hover { text-decoration: underline; border-bottom: 0;}
+
+#profile_card { position: absolute; width: 150px; left: -175px; margin-top: 5px; margin-bottom: 20px;}
+#profile_card img#profile_image { width: 150px; height: 200px;}
+
+#profile_items { margin-top: 15px;}
+#profile_items li { margin: 4px -2px 0 1px;}
+#profile_items li i { color: #555;}
+#profile_items li a { border-bottom: 0;}
+
+#content h3 { margin: 40px 0 15px -1px; border-bottom: 1px solid #ddd; font-size: 22px; color: #059; padding-bottom: 3px;}
 
 #about_me_text { font-size: 16px; line-height: 24px; margin-top: 10px;}
 #about_me_text p { margin: 12px 0;}
+#job_materials { border-spacing: 6px 0; margin-top: -5px;}
+#content a.link_button { display: table-cell; padding: 6px 10px; margin-right: 5px; border: 1px solid #ccc; border-radius: 1px; font-size: 13px; text-transform: uppercase;}
+#content a.link_button:hover { background-color: #bcf; border: 1px solid #abf; text-decoration: none;}
+
+ul.items li { font-size: 15px; margin: 7px 0; line-height: 21px;}
+.date { color: #777; font-size: 13px; text-transform: uppercase; margin-right: 3px; }
+.left { position: absolute; font-size: 13px; left: -130px; width: 110px; text-align: right; margin-top: 1px;}
+
+.projects { display: flex; flex-wrap: wrap;}
+.project { background-color: #fcfcfc; padding: 7px 9px; margin-right: 8px; font-size: 13px; line-height: 15px; max-width: 180px;}
+.project_title { color: #444; font-size: 24px; margin: 12px 0 7px 0;}
+.project_subtitle { color: #666; font-size: 15px; margin: 8px 0 6px 0;}
+.project_description { font-size: 12px; color: #555; margin: 7px 0 7px 0;}
+.project_thumbnail { }
+.project_thumbnail img { max-width: 180px;}
+#content .project_links a { color: #157; padding: 2px 4px 0 0; margin-right: 2px; font-size: 12px; border-bottom: none;}
+
+.section_memo { font-size: 14px; margin-left: 7px; color: #888;}
+.section_memo a { color: #777;}
+
+span.booktitle { font-style: italic;}
+span.myname { color: #37b; font-weight: bold;}
+span.highlight { color: #c52c5c; font-weight: bold;}
+
+#content .pub a { color: #157; text-decoration: none; padding: 4px 4px 3px 0; margin-top: 4px; margin-right: 2px; border: 0;}
+#content .pub a:hover { text-decoration: underline;}
+#content .pub a.paper_title { color: #333;}
+.paper_thumbnail { position: absolute; top: 3px; left: -150px;}
+.paper_thumbnail img { width: 135px;}
+
+p.desc { color: #555; margin-top: 0; font-size: 15px;}
+
+p#copyright { margin-top: 30px; text-align: center;}
 
 @media (max-width: 600px) {
 	#title { flex-wrap: wrap;}
@@ -150,50 +166,12 @@ img {
 	.left { position: relative; left: 0; text-align: left; margin-left: 5px;}
 }
 
-.title {
-  height: 80px;
-  //background-color: Red;
-  float: left;
-  width: 45%;
-  display: inline;
-  font-size: 2.1em;
-  margin-top: 1.2em;
-  margin-left: 2.3em;
-  //margin-bottom: 0.67em;
-  margin-right: 0;
-  font-weight: bold;
-}
-
-.contact {
-  display: inline;
-  //background-color: Aqua;
-  margin-top: 0.67em;
-  margin-left: 0%;
-  width: 55%;
-}
-
-
 #cv strong a {
 	color: #303030;
 }
 
 #cv .cv-blue-link a {
 	color: #2196F3;
-}
-
-#cv .photo-left {
-	margin-left: -150pt;
-    float:left;
-	text-align: left;
-	width: 10rem;
-	display: inline;
-	font-size: 12px;
-	margin-top: 5pt;
-	margin-bottom:0;
-	margin-right:14pt;
-	padding:0;
-    font-size: 14px;
-    //border: 1pt solid green;
 }
 
 #cv .cv-left-date {
