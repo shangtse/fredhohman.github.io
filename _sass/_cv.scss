@@ -85,6 +85,12 @@
   font-weight: 300;
 }
 
+
+
+
+
+
+
 body { font-family: Lato, Arial; font-size: 14px; color: #333;}
 #wrap { margin: 0 auto; max-width: 795px; padding: 10px 15px;}
 
@@ -100,25 +106,50 @@ li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px
 #top_menu a { color: #555;}
 #top_menu a:hover { color: #379;}
 
-#content { position: relative; margin-left: 175px;}
-#content a { border-bottom: 1px solid #ddd;}
-#content a:hover { text-decoration: underline; border-bottom: 0;}
+#content {
+	display: flex;
+	flex-flow: row wrap;
+}
 
-#profile_card { position: absolute; width: 150px; left: -175px; margin-top: 5px; margin-bottom: 20px;}
-#profile_card img#profile_image { width: 150px; height: 200px;}
+#profile_card{
+	flex: 1;
+}
 
-#profile_items { margin-top: 15px;}
-#profile_items li { margin: 4px -2px 0 1px;}
-#profile_items li i { color: #555;}
-#profile_items li a { border-bottom: 0;}
+#about_me_text {
+	flex: 3;
+}
 
-#content h3 { margin: 40px 0 15px -1px; border-bottom: 1px solid #ddd; font-size: 22px; color: #059; padding-bottom: 3px;}
+#about_me_text p {
+	margin: 20px;
+}
 
-#about_me_text { font-size: 16px; line-height: 24px; margin-top: 10px;}
-#about_me_text p { margin: 12px 0;}
+#profile_items {
+	margin-left: 0 !important;
+}
+
+#profile_items li {
+	margin: 0;
+}
+
+// #content { position: relative; margin-left: 175px;}
+// #content a { border-bottom: 1px solid #ddd;}
+// #content a:hover { text-decoration: underline; border-bottom: 0;}
+
+// #profile_card { position: absolute; width: 150px; left: -175px; margin-top: 5px; margin-bottom: 20px;}
+// #profile_card img#profile_image { width: 150px; height: 200px;}
+
+// #profile_items { margin-top: 15px;}
+// #profile_items li { margin: 4px -2px 0 1px;}
+// #profile_items li i { color: #555;}
+// #profile_items li a { border-bottom: 0;}
+
+// #content h3 { margin: 40px 0 15px -1px; border-bottom: 1px solid #ddd; font-size: 22px; color: #059; padding-bottom: 3px;}
+
+// #about_me_text { font-size: 16px; line-height: 24px; margin-top: 10px;}
+// #about_me_text p { margin: 12px 0;}
 #job_materials { border-spacing: 6px 0; margin-top: -5px;}
-#content a.link_button { display: table-cell; padding: 6px 10px; margin-right: 5px; border: 1px solid #ccc; border-radius: 1px; font-size: 13px; text-transform: uppercase;}
-#content a.link_button:hover { background-color: #bcf; border: 1px solid #abf; text-decoration: none;}
+// #content a.link_button { display: table-cell; padding: 6px 10px; margin-right: 5px; border: 1px solid #ccc; border-radius: 1px; font-size: 13px; text-transform: uppercase;}
+// #content a.link_button:hover { background-color: #bcf; border: 1px solid #abf; text-decoration: none;}
 
 ul.items li { font-size: 15px; margin: 7px 0; line-height: 21px;}
 .date { color: #777; font-size: 13px; text-transform: uppercase; margin-right: 3px; }
@@ -131,7 +162,7 @@ ul.items li { font-size: 15px; margin: 7px 0; line-height: 21px;}
 .project_description { font-size: 12px; color: #555; margin: 7px 0 7px 0;}
 .project_thumbnail { }
 .project_thumbnail img { max-width: 180px;}
-#content .project_links a { color: #157; padding: 2px 4px 0 0; margin-right: 2px; font-size: 12px; border-bottom: none;}
+// #content .project_links a { color: #157; padding: 2px 4px 0 0; margin-right: 2px; font-size: 12px; border-bottom: none;}
 
 .section_memo { font-size: 14px; margin-left: 7px; color: #888;}
 .section_memo a { color: #777;}
@@ -153,9 +184,9 @@ p#copyright { margin-top: 30px; text-align: center;}
 @media (max-width: 600px) {
 	#title { flex-wrap: wrap;}
 	#title h1 { width: 100%; padding-bottom: 12px;}
-	#top_menu { border-top: 1px solid #ccc; padding-top: 9px; width: 100%;}
-	#content { margin-left: 0;}
-	#profile_card { position: relative; left: 0; width: auto; display: flex; align-items: flex-end;}
+	#top_menu { border-top: 1px solid #ccc; padding-top: 9px; width: 100%; margin-left: 0 !important;}
+	// #content { margin-left: 0;}
+	// #profile_card { position: relative; left: 0; width: auto; display: flex; align-items: flex-end;}
 	#profile_items { margin: 0 0 3px 15px;}
 	#profile_items li { margin: 4px 0 0 1px;}
 	.projects { display: block;}
@@ -164,7 +195,24 @@ p#copyright { margin-top: 30px; text-align: center;}
 	.project_thumbnail img { width: 100%;}
 	.paper_thumbnail { position: relative; top: 0; left: 0;}
 	.left { position: relative; left: 0; text-align: left; margin-left: 5px;}
+
+	#profile_card {
+		// width: 100%;
+		flex: 1 100%;
+	}
+
+	#about_me_text {
+		// width: 100%;
+		flex: 1 100%;
+	}
+
+
 }
+
+
+
+
+
 
 #cv strong a {
 	color: #303030;

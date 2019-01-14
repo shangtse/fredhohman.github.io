@@ -17,56 +17,59 @@ title: Home
 
 <div id="content">
 
-<div id="profile_card">
-	<img id="profile_image" src="images/myphoto.png" alt="Shang-Tse Chen" />
+	<div id="profile_card">
+		<img id="profile_image" src="images/myphoto.png" alt="Shang-Tse Chen" />
 
-	<ul id="profile_items">
-		<li>
-			<i class="fas fa-envelope fa-fw"></i>
-			<a href="/cdn-cgi/l/email-protection#3259535a5c557255534657515a1c575647">		
-				<span class="__cf_email__" data-cfemail="600b01080e07200701140503084e050415">[email&#160;protected]</span>
-			</a>
-		</li>
-		<li>
-			<i class="fas fa-home fa-fw"></i>
-			<a href="https://minsuk.com">
-				minsuk.com
-			</a>
-		</li> 
-		<li>
-			<i class="fas fa-graduation-cap fa-fw"></i>
-			<a href="https://scholar.google.com/citations?hl=en&user=vieI1GYAAAAJ">
-				Google Scholar
-			</a>
-		</li> 
-		<li>
-			<i class="fab fa-twitter fa-fw"></i>
-			<a href="https://www.twitter.com/minsukkahng">
-				Twitter
-			</a>
-		</li>
-	</ul>
-</div>
+		<ul id="profile_items">
+			<li>
+				<i class="fas fa-envelope fa-fw"></i>
+				<a href="/cdn-cgi/l/email-protection#3259535a5c557255534657515a1c575647">		
+					<span class="__cf_email__" data-cfemail="600b01080e07200701140503084e050415">[email&#160;protected]</span>
+				</a>
+			</li>
+			<li>
+				<i class="fas fa-home fa-fw"></i>
+				<a href="https://minsuk.com">
+					minsuk.com
+				</a>
+			</li> 
+			<li>
+				<i class="fas fa-graduation-cap fa-fw"></i>
+				<a href="https://scholar.google.com/citations?hl=en&user=vieI1GYAAAAJ">
+					Google Scholar
+				</a>
+			</li> 
+			<li>
+				<i class="fab fa-twitter fa-fw"></i>
+				<a href="https://www.twitter.com/minsukkahng">
+					Twitter
+				</a>
+			</li>
+		</ul>
+	</div>
 
 
-<div id="about_me_text">
-	<p>Hi, I'm a final-year computer science PhD student at <a href="https://www.cc.gatech.edu/">Georgia Tech</a>, advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
-	<p>My research on <strong>"Human-Centered AI through Scalable Visual Data Analytics"</strong> focuses on building novel <em><strong>data visualization</strong> tools</em> for helping people <em>explore, interpret, and interact with <strong>machine learning</strong> systems</em>, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.</p>
-	<p>My PhD studies have been supported by the <a href="https://ai.google/research/outreach/phd-fellowship/">Google PhD Fellowship</a> and the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. During my PhD studies, I have been fortunate to work with amazing people at <a href="https://ai.google/research/teams/brain/pair">Google Brain</a> and <a href="https://research.fb.com/category/machine-learning/">Facebook Research</a>, resulting in publications and open-sourced and deployed systems.</p>
-	<p>Prior to Georgia Tech, I completed both my master's and bachelor's degrees at <a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</a> in South Korea.</p>
+	<div id="about_me_text">
+		<p markdown="1">Hi, I'm a final-year computer science PhD student at [Georgia Tech][gt], advised by <a href="https://www.cc.gatech.edu/~dchau">Polo Chau</a>.</p>
+		<p>My research on <strong>"Human-Centered AI through Scalable Visual Data Analytics"</strong> focuses on building novel <em><strong>data visualization</strong> tools</em> for helping people <em>explore, interpret, and interact with <strong>machine learning</strong> systems</em>, by combining methods from data visualization, machine learning, databases, data mining, and human-computer interaction.</p>
+		<p>My PhD studies have been supported by the <a href="https://ai.google/research/outreach/phd-fellowship/">Google PhD Fellowship</a> and the <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. During my PhD studies, I have been fortunate to work with amazing people at <a href="https://ai.google/research/teams/brain/pair">Google Brain</a> and <a href="https://research.fb.com/category/machine-learning/">Facebook Research</a>, resulting in publications and open-sourced and deployed systems.</p>
+		<p>Prior to Georgia Tech, I completed both my master's and bachelor's degrees at <a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</a> in South Korea.</p>
 
-	<p>
-		<span style="color: #b25;">I'm currently on the <strong>faculty job market</strong>!
-		Here are my application materials:</span>
-	</p>
-	<div id="job_materials">
-		<a class="link_button" href="minsuk-kahng-cv.pdf">CV</a> 
-		<a class="link_button" href="minsuk-kahng-research-statement.pdf">Research Statement</a>
-		<a class="link_button" href="minsuk-kahng-teaching-statement.pdf">Teaching Statement</a>
+		<p>
+			<span style="color: #b25;">I'm currently on the <strong>faculty job market</strong>!
+			Here are my application materials:</span>
+		</p>
+
+
+<!-- 		<div id="job_materials">
+			<a class="link_button" href="minsuk-kahng-cv.pdf">CV</a> 
+			<a class="link_button" href="minsuk-kahng-research-statement.pdf">Research Statement</a>
+			<a class="link_button" href="minsuk-kahng-teaching-statement.pdf">Teaching Statement</a>
+		</div> -->
 	</div>
 </div>
-</div>
 
+<hr>
 
 
 <!--
