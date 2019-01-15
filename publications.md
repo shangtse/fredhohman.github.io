@@ -1,57 +1,18 @@
 ---
 layout: cv
-title: Home
+title: Publications
 ---
 
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin,latin-ext" rel='stylesheet' type="text/css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 
-
-<div class="top-width">
-<div id="web_title">
+<div id="title">
 	<h1><a href="/">Shang-Tse Chen</a></h1>
 	<ul id="top_menu">
 		<li><a href="publications.html">Publications</a></li>
 		<li><a href="/">Home</a></li>
-        <!--
-		<li><a href="cv.pdf">CV (PDF)</a></li>
-        -->
 	</ul>
 </div>
-</div>
-
-
-<!-- 
-<div id="profile_card">
-
-<img id="profile_image" src="/images/myphoto.png" alt="Shang-Tse Chen" />
-	<ul id="profile_items">
-		<li>
-           <i class="fas fa-envelope fa-fw"></i>
-            <a href="mailto:schen351@gatech.edu">schen351@gatech.edu</a>   
-		</li>
-		<li>
-			<i class="fas fa-graduation-cap fa-fw"></i>
-			<a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ">
-				Google Scholar
-			</a>
-		</li> 
-	</ul>
-</div>
--->
-
-<span class="photo-left">
-  <img src="/images/myphoto.png" alt="Trulli" class="small">
-  <span class="cv-spacer-award"></span>
-  <i class="fas fa-envelope fa-fw"></i>
-  <a href="mailto:schen351@gatech.edu">schen351@gatech.edu</a>
-  <span class="cv-spacer-award"></span>
-  <i class="fas fa-graduation-cap fa-fw"></i>
-  <a href="https://scholar.google.com/citations?user=TLfsJRwAAAAJ">Google Scholar</a>  
-  <span class="cv-spacer-award"></span>
-  <i class="far fa-file-pdf fa-fw w3-margin-right w3-large w3-text-blue"></i>
-  <a href="https://www.cc.gatech.edu/~schen351/paper/cv.pdf">CV (PDF)</a>
-</span>
 
 <span class="cv-spacer-award"></span>
 ### Refereed Conference Papers  
@@ -165,8 +126,7 @@ Bogdan Carbunar
 *IEEE Symposium on Security and Privacy (Oakland) (poster). SAN JOSE, CA. May 2015.*  
 
 **[An Ensemble of Three Classifiers for KDD Cup 2009: Expanded Linear Model, Heterogeneous Boosting, and Selective Naive Bayes][09-kddcup]**  
-Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and   
-Shou-de Lin  
+Hung-Yi Lo, Kai-Wei Chang, <u>Shang-Tse Chen</u>, Tsung-Hsien Chiang, Chun-Sung Ferng, Cho-Jui Hsieh, Yi-Kuang Ko, Tsung-Ting Kuo, Hung-Che Lai, Ken-Yi Lin, Chia-Hsuan Wang, Hsiang-Fu Yu, Chih-Jen Lin, Hsuan-Tien Lin, and Shou-de Lin  
 *JMLR Workshop and Conference Proceedings, V.7, 57-64, 2009.*  
 <span class="paper-misc">
 <span class="cv-award">*3rd Place of the KDD Cup'09 Slow Track*</span>

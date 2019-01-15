@@ -1,5 +1,5 @@
 #cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination, hr{
-	max-width: 45rem; //should match .container max-width 
+	max-width: 50rem; //should match .container max-width 
 	margin-left: 5rem;
 }
 
@@ -98,7 +98,7 @@ a { text-decoration: none; color: #379;}
 ul { padding-left: 0;}
 li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px;}
 
-#title { display: flex; align-items: flex-end; justify-content: space-between; padding-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 6px; margin-bottom: 20px;}
+#title { display: flex; align-items: flex-end; justify-content: space-between; padding-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 6px; margin-bottom: 0;}
 #title h1 { font-size: 40px; margin: 0; color: #147; min-width: 300px;}
 #title h1 a { color: #147;}
 #top_menu { margin: 0 0 4px 0;}
@@ -116,19 +116,27 @@ li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px
 }
 
 #about_me_text {
-	flex: 3;
+    margin-top:0;
+    margin-right:0;
+	flex: 4;
 }
 
 #about_me_text p {
-	margin: 20px;
+    margin: 20px;
 }
 
 #profile_items {
 	margin-left: 0 !important;
+    margin-top:5px;
 }
 
 #profile_items li {
 	margin: 0;
+}
+
+
+#profile_image {
+    margin-top: 27px;
 }
 
 // #content { position: relative; margin-left: 175px;}
@@ -187,8 +195,8 @@ p#copyright { margin-top: 30px; text-align: center;}
 	#top_menu { border-top: 1px solid #ccc; padding-top: 9px; width: 100%; margin-left: 0 !important;}
 	// #content { margin-left: 0;}
 	// #profile_card { position: relative; left: 0; width: auto; display: flex; align-items: flex-end;}
-	#profile_items { margin: 0 0 3px 15px;}
-	#profile_items li { margin: 4px 0 0 1px;}
+	#profile_items { margin: 20px; margin-top:0; margin-bottom:0;}
+	#profile_items li { margin-left: 20px; margin-top:0; margin-bottom:0;}
 	.projects { display: block;}
 	.project { display: flex; flex-direction: row; max-width: 100%; margin-bottom: 12px;}
 	.project_thumbnail { margin-right: 9px; max-width: 60%;}
@@ -205,6 +213,11 @@ p#copyright { margin-top: 30px; text-align: center;}
 		// width: 100%;
 		flex: 1 100%;
 	}
+
+    #profile_image {
+        max-width: 50%;
+        margin: 20px 20px 5px 20px;
+    }
 
 
 }
