@@ -10,7 +10,7 @@ tagline:             CS Ph.D. Student at GT
 url:                 http://www.cc.gatech.edu/~schen351
 # gems:                [jekyll-paginate]
 # paginate:            5
-baseurl:             "."
+baseurl:             ""
 
 # Assets
 #
